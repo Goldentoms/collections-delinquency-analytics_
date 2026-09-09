@@ -2,7 +2,7 @@
 
 A data analytics project analyzing a synthetic loan collections portfolio — built to demonstrate delinquency tracking, recovery performance, and collector productivity analysis.
 
-🔗 **[View the live dashboard](#)** *(update this link after enabling GitHub Pages — see below)*
+🔗 **[View the live dashboard](🔗 **[View the live dashboard](https://goldentoms.github.io/collections-delinquency-analytics_/Collections_Delinquency_Dashboard.html)**)** *(update this link after enabling GitHub Pages — see below)*
 
 ## Project Overview
 
@@ -45,4 +45,4 @@ Python (pandas, numpy) for synthetic data generation · Excel (openpyxl) for the
 
 ## Contact
 
-Open to feedback — feel free to reach out or connect on [LinkedIn](#).
+Open to feedback — feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/ayomidetomoloju/).
