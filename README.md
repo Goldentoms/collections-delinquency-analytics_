@@ -1,10 +1,8 @@
 # Collections & Delinquency Portfolio Analytics
 
-A data analytics project analyzing a synthetic loan collections portfolio — built to demonstrate delinquency tracking, recovery performance, and collector productivity analysis.
+A data analytics project analyzing a synthetic loan collections portfolio built to demonstrate delinquency tracking, recovery performance, and collector productivity analysis.
 
-🔗 **[View the live dashboard](🔗 **[View the live dashboard](https://goldentoms.github.io/collections-delinquency-analytics_/Collections_Delinquency_Dashboard.html)**)** *(update this link after enabling GitHub Pages — see below)*
-
-## Project Overview
+🔗 **[View the live dashboard](🔗 **[View the live dashboard](https://goldentoms.github.io/collections-delinquency-analytics_/Collections_Delinquency_Dashboard.html)**)** 
 
 Coming from a background in financial services collections and account management, I built this project to translate hands-on domain knowledge into an analytics deliverable — the kind of dashboard a collections operations team would actually use to prioritize accounts, monitor recovery performance, and evaluate collector productivity.
 
