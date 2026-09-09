@@ -1,0 +1,1201 @@
+Account_ID,Month,Region,Product,Credit_Band,Assigned_Collector,Origination_Balance,Outstanding_Balance,DPD_Bucket,Days_Past_Due,Contact_Attempts,Promise_to_Pay,Amount_Recovered
+ACC-10000,2026-06,Ontario,Line of Credit,Near-Prime,R. Osei,15000,5066.32,Current,0,1,No,0.0
+ACC-10001,2025-10,British Columbia,Personal Loan,Subprime,M. Singh,15000,6288.19,Current,0,0,No,0.0
+ACC-10002,2026-08,Quebec,Auto Loan,Near-Prime,A. Chen,8000,5996.99,1-30 DPD,30,3,Yes,0.0
+ACC-10003,2026-06,Ontario,Line of Credit,Near-Prime,J. Tremblay,12000,8937.02,Current,0,0,No,0.0
+ACC-10004,2026-04,Ontario,Auto Loan,Prime,R. Osei,20000,11527.03,Current,0,0,No,0.0
+ACC-10005,2025-12,Quebec,Personal Loan,Subprime,M. Singh,15000,8989.66,90+ DPD,162,9,No,0.0
+ACC-10006,2026-07,Ontario,Auto Loan,Prime,A. Chen,5000,3811.86,Current,0,1,No,0.0
+ACC-10007,2025-10,Atlantic,Credit Card,Near-Prime,J. Tremblay,20000,10820.64,Current,0,0,No,0.0
+ACC-10008,2026-01,British Columbia,Credit Card,Near-Prime,L. Fontaine,20000,11857.88,61-90 DPD,65,5,No,3818.24
+ACC-10009,2026-07,Ontario,Auto Loan,Near-Prime,L. Fontaine,3000,2738.56,Current,0,0,No,0.0
+ACC-10010,2026-02,British Columbia,Line of Credit,Near-Prime,M. Singh,15000,6629.79,Current,0,0,No,0.0
+ACC-10011,2025-09,Alberta,Auto Loan,Subprime,J. Tremblay,8000,4620.96,Current,0,1,No,0.0
+ACC-10012,2026-06,Ontario,Auto Loan,Near-Prime,A. Chen,8000,7303.13,Current,0,0,No,0.0
+ACC-10013,2026-08,Quebec,Credit Card,Prime,A. Chen,3000,1869.63,Current,0,0,No,0.0
+ACC-10014,2026-03,Ontario,Personal Loan,Near-Prime,A. Chen,25000,22259.32,Current,0,0,No,0.0
+ACC-10015,2026-07,Ontario,Auto Loan,Near-Prime,L. Fontaine,5000,2287.02,Current,0,1,No,0.0
+ACC-10016,2025-11,Atlantic,Auto Loan,Near-Prime,A. Chen,5000,3702.08,Current,0,0,No,0.0
+ACC-10017,2026-03,Quebec,Personal Loan,Near-Prime,J. Tremblay,20000,14293.03,1-30 DPD,28,3,No,14114.62
+ACC-10018,2026-07,Ontario,Line of Credit,Subprime,L. Fontaine,20000,9625.33,Current,0,0,No,0.0
+ACC-10019,2026-07,Alberta,Line of Credit,Near-Prime,L. Fontaine,15000,9367.51,61-90 DPD,68,1,Yes,7161.0
+ACC-10020,2025-12,Ontario,Auto Loan,Subprime,L. Fontaine,8000,2601.41,1-30 DPD,21,4,Yes,1939.17
+ACC-10021,2025-10,Quebec,Line of Credit,Near-Prime,R. Osei,20000,14386.34,Current,0,0,No,0.0
+ACC-10022,2025-09,Alberta,Personal Loan,Subprime,R. Osei,12000,10084.86,31-60 DPD,44,1,No,0.0
+ACC-10023,2026-03,Atlantic,Line of Credit,Prime,A. Chen,3000,1846.3,Current,0,0,No,0.0
+ACC-10024,2026-02,Ontario,Credit Card,Prime,R. Osei,12000,5582.48,Current,0,0,No,0.0
+ACC-10025,2026-06,Ontario,Credit Card,Near-Prime,A. Chen,15000,9420.89,61-90 DPD,85,2,No,0.0
+ACC-10026,2026-08,Ontario,Auto Loan,Prime,L. Fontaine,20000,11700.16,Current,0,0,No,0.0
+ACC-10027,2026-02,Ontario,Personal Loan,Near-Prime,L. Fontaine,5000,1626.21,Current,0,0,No,0.0
+ACC-10028,2026-03,Quebec,Auto Loan,Subprime,K. Brar,5000,1667.97,Current,0,0,No,0.0
+ACC-10029,2026-06,Quebec,Credit Card,Subprime,J. Tremblay,3000,2450.61,Current,0,0,No,0.0
+ACC-10030,2026-05,Quebec,Personal Loan,Prime,K. Brar,5000,1689.13,Current,0,1,No,0.0
+ACC-10031,2026-03,Ontario,Personal Loan,Prime,A. Chen,12000,6998.25,Current,0,0,No,0.0
+ACC-10032,2026-08,Ontario,Auto Loan,Prime,R. Osei,15000,4897.11,Current,0,1,No,0.0
+ACC-10033,2026-01,Quebec,Personal Loan,Prime,K. Brar,8000,5602.42,Current,0,0,No,0.0
+ACC-10034,2026-04,Ontario,Auto Loan,Near-Prime,M. Singh,20000,8118.15,Current,0,0,No,0.0
+ACC-10035,2025-11,British Columbia,Personal Loan,Near-Prime,R. Osei,15000,8967.97,Current,0,0,No,0.0
+ACC-10036,2026-08,Atlantic,Auto Loan,Prime,A. Chen,12000,3742.13,Current,0,0,No,0.0
+ACC-10037,2025-10,British Columbia,Personal Loan,Prime,K. Brar,15000,9336.37,Current,0,0,No,0.0
+ACC-10038,2025-12,Ontario,Line of Credit,Subprime,J. Tremblay,8000,6303.2,Current,0,2,No,0.0
+ACC-10039,2026-03,Ontario,Credit Card,Prime,L. Fontaine,12000,9485.43,Current,0,0,No,0.0
+ACC-10040,2025-09,Alberta,Auto Loan,Subprime,A. Chen,5000,4615.26,Current,0,1,No,0.0
+ACC-10041,2026-01,Atlantic,Credit Card,Near-Prime,J. Tremblay,12000,8299.04,Current,0,0,No,0.0
+ACC-10042,2026-06,Ontario,Line of Credit,Subprime,A. Chen,3000,1971.58,Current,0,0,No,0.0
+ACC-10043,2026-06,Alberta,Auto Loan,Near-Prime,M. Singh,25000,9143.24,Current,0,0,No,0.0
+ACC-10044,2026-01,British Columbia,Personal Loan,Prime,M. Singh,20000,13556.97,Current,0,2,No,0.0
+ACC-10045,2026-08,Alberta,Credit Card,Prime,J. Tremblay,8000,4605.95,Current,0,1,No,0.0
+ACC-10046,2026-04,Quebec,Personal Loan,Near-Prime,J. Tremblay,12000,8663.84,Current,0,1,No,0.0
+ACC-10047,2026-01,Atlantic,Auto Loan,Near-Prime,A. Chen,3000,690.64,1-30 DPD,13,3,No,0.0
+ACC-10048,2026-02,Quebec,Credit Card,Subprime,L. Fontaine,5000,4203.39,90+ DPD,147,3,No,0.0
+ACC-10049,2026-01,Ontario,Credit Card,Prime,M. Singh,5000,2876.34,90+ DPD,153,4,No,0.0
+ACC-10050,2025-10,Atlantic,Credit Card,Subprime,A. Chen,8000,3708.19,1-30 DPD,24,4,No,0.0
+ACC-10051,2026-03,Alberta,Auto Loan,Prime,R. Osei,3000,2485.16,Current,0,2,No,0.0
+ACC-10052,2026-05,British Columbia,Line of Credit,Prime,M. Singh,8000,7361.07,Current,0,0,No,0.0
+ACC-10053,2026-06,Ontario,Credit Card,Prime,M. Singh,8000,4876.3,Current,0,1,No,0.0
+ACC-10054,2026-03,Alberta,Line of Credit,Near-Prime,L. Fontaine,20000,15270.63,31-60 DPD,32,6,No,0.0
+ACC-10055,2026-01,Quebec,Line of Credit,Subprime,L. Fontaine,12000,6533.78,31-60 DPD,47,4,Yes,0.0
+ACC-10056,2026-04,Ontario,Personal Loan,Near-Prime,R. Osei,3000,1682.0,31-60 DPD,33,4,No,542.05
+ACC-10057,2026-07,Quebec,Auto Loan,Near-Prime,L. Fontaine,8000,6556.93,Current,0,0,No,0.0
+ACC-10058,2026-04,Ontario,Line of Credit,Subprime,K. Brar,3000,1726.84,1-30 DPD,15,5,No,678.96
+ACC-10059,2025-11,Alberta,Credit Card,Near-Prime,J. Tremblay,3000,1104.49,Current,0,0,No,0.0
+ACC-10060,2026-08,Ontario,Auto Loan,Prime,A. Chen,5000,2614.51,Current,0,0,No,0.0
+ACC-10061,2025-10,Ontario,Credit Card,Near-Prime,M. Singh,3000,2043.74,Current,0,0,No,0.0
+ACC-10062,2026-04,Ontario,Auto Loan,Near-Prime,J. Tremblay,12000,6176.72,Current,0,1,No,0.0
+ACC-10063,2026-04,Ontario,Auto Loan,Prime,J. Tremblay,20000,7043.04,Current,0,0,No,0.0
+ACC-10064,2025-12,Ontario,Line of Credit,Subprime,L. Fontaine,8000,7470.35,Current,0,0,No,0.0
+ACC-10065,2025-11,British Columbia,Credit Card,Near-Prime,M. Singh,12000,5118.91,1-30 DPD,26,3,Yes,0.0
+ACC-10066,2026-02,Quebec,Personal Loan,Near-Prime,J. Tremblay,5000,1936.85,Current,0,0,No,0.0
+ACC-10067,2026-05,Atlantic,Auto Loan,Prime,M. Singh,3000,2061.5,Current,0,0,No,0.0
+ACC-10068,2025-10,Ontario,Auto Loan,Near-Prime,A. Chen,20000,15501.28,Current,0,1,No,0.0
+ACC-10069,2026-07,Ontario,Credit Card,Subprime,L. Fontaine,3000,2332.78,1-30 DPD,30,1,No,0.0
+ACC-10070,2025-11,Ontario,Credit Card,Near-Prime,M. Singh,15000,9063.61,31-60 DPD,45,3,No,6163.2
+ACC-10071,2025-09,Ontario,Credit Card,Subprime,M. Singh,3000,2695.15,90+ DPD,126,5,No,0.0
+ACC-10072,2026-04,British Columbia,Personal Loan,Subprime,K. Brar,3000,914.83,31-60 DPD,38,5,Yes,495.82
+ACC-10073,2026-04,Alberta,Credit Card,Prime,M. Singh,20000,13948.91,Current,0,0,No,0.0
+ACC-10074,2026-01,Alberta,Line of Credit,Subprime,J. Tremblay,20000,9242.1,1-30 DPD,28,1,No,8209.82
+ACC-10075,2026-05,Ontario,Personal Loan,Prime,M. Singh,15000,7536.58,Current,0,0,No,0.0
+ACC-10076,2026-01,Quebec,Auto Loan,Subprime,K. Brar,5000,2880.88,1-30 DPD,20,4,Yes,1776.66
+ACC-10077,2026-07,Ontario,Auto Loan,Prime,L. Fontaine,3000,925.53,Current,0,0,No,0.0
+ACC-10078,2026-04,Ontario,Line of Credit,Subprime,A. Chen,12000,5737.47,31-60 DPD,43,4,No,0.0
+ACC-10079,2026-08,Quebec,Personal Loan,Near-Prime,R. Osei,8000,4984.46,Current,0,1,No,0.0
+ACC-10080,2025-10,Ontario,Personal Loan,Prime,R. Osei,8000,2532.01,Current,0,0,No,0.0
+ACC-10081,2026-03,British Columbia,Credit Card,Prime,A. Chen,12000,3753.74,Current,0,0,No,0.0
+ACC-10082,2025-11,Alberta,Personal Loan,Near-Prime,A. Chen,12000,9233.68,Current,0,1,No,0.0
+ACC-10083,2025-10,Ontario,Credit Card,Prime,K. Brar,8000,2844.64,Current,0,0,No,0.0
+ACC-10084,2025-09,Ontario,Personal Loan,Near-Prime,J. Tremblay,12000,9330.9,1-30 DPD,10,1,Yes,0.0
+ACC-10085,2026-02,British Columbia,Auto Loan,Subprime,K. Brar,5000,2706.01,1-30 DPD,30,3,No,1837.77
+ACC-10086,2025-10,Ontario,Personal Loan,Prime,R. Osei,8000,2495.63,Current,0,1,No,0.0
+ACC-10087,2026-08,Quebec,Personal Loan,Near-Prime,A. Chen,8000,2457.18,Current,0,0,No,0.0
+ACC-10088,2026-03,Alberta,Line of Credit,Near-Prime,M. Singh,12000,10137.23,Current,0,0,No,0.0
+ACC-10089,2025-11,British Columbia,Auto Loan,Near-Prime,M. Singh,5000,4005.7,Current,0,0,No,0.0
+ACC-10090,2025-11,Alberta,Auto Loan,Prime,J. Tremblay,15000,12836.71,1-30 DPD,24,2,Yes,9198.2
+ACC-10091,2026-05,Quebec,Credit Card,Near-Prime,M. Singh,12000,9279.87,Current,0,0,No,0.0
+ACC-10092,2026-08,British Columbia,Auto Loan,Subprime,R. Osei,15000,6790.23,1-30 DPD,12,2,Yes,0.0
+ACC-10093,2026-03,Ontario,Auto Loan,Subprime,R. Osei,15000,5621.51,31-60 DPD,38,4,No,0.0
+ACC-10094,2026-03,Ontario,Auto Loan,Prime,M. Singh,5000,4504.29,Current,0,2,No,0.0
+ACC-10095,2026-04,Alberta,Credit Card,Near-Prime,M. Singh,8000,3026.95,Current,0,0,No,0.0
+ACC-10096,2025-12,British Columbia,Auto Loan,Subprime,J. Tremblay,12000,6769.41,1-30 DPD,18,5,No,3850.27
+ACC-10097,2026-01,Ontario,Personal Loan,Near-Prime,K. Brar,15000,10162.38,Current,0,0,No,0.0
+ACC-10098,2025-11,Ontario,Personal Loan,Prime,J. Tremblay,15000,7395.78,Current,0,1,No,0.0
+ACC-10099,2025-09,Quebec,Personal Loan,Near-Prime,K. Brar,25000,9522.11,Current,0,2,No,0.0
+ACC-10100,2025-10,Quebec,Line of Credit,Subprime,L. Fontaine,12000,11331.12,Current,0,0,No,0.0
+ACC-10101,2026-07,Atlantic,Credit Card,Prime,K. Brar,15000,6649.74,Current,0,0,No,0.0
+ACC-10102,2026-05,British Columbia,Auto Loan,Prime,K. Brar,12000,4585.96,90+ DPD,151,7,No,4248.64
+ACC-10103,2026-05,Quebec,Auto Loan,Subprime,R. Osei,3000,1976.01,1-30 DPD,15,1,Yes,1108.31
+ACC-10104,2026-08,British Columbia,Auto Loan,Prime,L. Fontaine,25000,21332.11,Current,0,0,No,0.0
+ACC-10105,2026-04,Quebec,Credit Card,Near-Prime,M. Singh,12000,5682.82,Current,0,1,No,0.0
+ACC-10106,2026-05,British Columbia,Line of Credit,Prime,R. Osei,5000,3634.51,1-30 DPD,27,3,Yes,0.0
+ACC-10107,2026-08,Ontario,Credit Card,Subprime,M. Singh,15000,7298.62,Current,0,0,No,0.0
+ACC-10108,2025-11,Atlantic,Credit Card,Near-Prime,M. Singh,12000,5810.07,Current,0,0,No,0.0
+ACC-10109,2026-02,Quebec,Credit Card,Subprime,J. Tremblay,12000,10357.3,31-60 DPD,48,3,No,3648.73
+ACC-10110,2026-08,Atlantic,Credit Card,Prime,J. Tremblay,15000,4715.7,Current,0,0,No,0.0
+ACC-10111,2025-10,Quebec,Credit Card,Prime,M. Singh,3000,2393.84,31-60 DPD,43,5,No,2172.74
+ACC-10112,2026-05,Ontario,Credit Card,Near-Prime,K. Brar,12000,6033.23,Current,0,0,No,0.0
+ACC-10113,2026-08,British Columbia,Credit Card,Near-Prime,R. Osei,3000,1819.49,Current,0,0,No,0.0
+ACC-10114,2025-10,Ontario,Personal Loan,Subprime,K. Brar,15000,3341.52,31-60 DPD,42,4,No,2606.04
+ACC-10115,2026-04,Ontario,Auto Loan,Prime,L. Fontaine,12000,11277.94,Current,0,0,No,0.0
+ACC-10116,2026-07,Quebec,Credit Card,Near-Prime,M. Singh,8000,6683.78,61-90 DPD,66,4,Yes,0.0
+ACC-10117,2026-08,Quebec,Personal Loan,Prime,A. Chen,12000,7767.09,Current,0,1,No,0.0
+ACC-10118,2026-06,Alberta,Auto Loan,Prime,M. Singh,25000,10752.44,Current,0,0,No,0.0
+ACC-10119,2026-05,Ontario,Credit Card,Near-Prime,R. Osei,20000,13036.85,Current,0,0,No,0.0
+ACC-10120,2026-03,Alberta,Credit Card,Near-Prime,L. Fontaine,15000,11581.63,31-60 DPD,36,4,Yes,5477.79
+ACC-10121,2026-03,Alberta,Personal Loan,Prime,L. Fontaine,5000,1641.9,Current,0,0,No,0.0
+ACC-10122,2025-11,Ontario,Credit Card,Subprime,K. Brar,25000,14053.0,Current,0,0,No,0.0
+ACC-10123,2026-06,Ontario,Personal Loan,Subprime,J. Tremblay,5000,3573.73,31-60 DPD,34,5,No,0.0
+ACC-10124,2026-08,Quebec,Credit Card,Prime,M. Singh,25000,15069.46,Current,0,1,No,0.0
+ACC-10125,2025-10,British Columbia,Auto Loan,Prime,L. Fontaine,5000,4276.75,Current,0,0,No,0.0
+ACC-10126,2025-10,Ontario,Line of Credit,Near-Prime,L. Fontaine,8000,5791.04,Current,0,0,No,0.0
+ACC-10127,2026-04,Ontario,Line of Credit,Subprime,K. Brar,5000,2270.34,Current,0,0,No,0.0
+ACC-10128,2026-05,Alberta,Auto Loan,Near-Prime,M. Singh,8000,3693.31,Current,0,0,No,0.0
+ACC-10129,2026-01,British Columbia,Personal Loan,Near-Prime,J. Tremblay,8000,6465.31,Current,0,0,No,0.0
+ACC-10130,2025-10,Quebec,Line of Credit,Prime,L. Fontaine,5000,4278.12,1-30 DPD,5,0,No,2637.63
+ACC-10131,2025-10,Ontario,Auto Loan,Near-Prime,L. Fontaine,12000,5114.3,1-30 DPD,2,4,Yes,1984.44
+ACC-10132,2025-09,Ontario,Line of Credit,Subprime,J. Tremblay,12000,9692.39,1-30 DPD,6,5,No,0.0
+ACC-10133,2025-11,Quebec,Personal Loan,Near-Prime,A. Chen,12000,7870.36,61-90 DPD,76,4,No,0.0
+ACC-10134,2025-10,Alberta,Credit Card,Prime,K. Brar,5000,2562.86,Current,0,0,No,0.0
+ACC-10135,2025-09,Alberta,Credit Card,Subprime,A. Chen,5000,3269.59,Current,0,0,No,0.0
+ACC-10136,2025-09,Ontario,Auto Loan,Near-Prime,K. Brar,8000,4340.91,Current,0,0,No,0.0
+ACC-10137,2026-05,Ontario,Credit Card,Subprime,L. Fontaine,12000,9516.21,61-90 DPD,76,4,No,0.0
+ACC-10138,2026-07,Quebec,Auto Loan,Near-Prime,L. Fontaine,15000,6408.84,Current,0,0,No,0.0
+ACC-10139,2025-12,British Columbia,Line of Credit,Near-Prime,A. Chen,12000,3797.19,1-30 DPD,2,6,Yes,0.0
+ACC-10140,2026-06,Atlantic,Credit Card,Near-Prime,L. Fontaine,5000,3776.93,1-30 DPD,24,3,Yes,0.0
+ACC-10141,2026-02,Quebec,Personal Loan,Subprime,K. Brar,12000,7532.24,61-90 DPD,75,5,No,0.0
+ACC-10142,2026-06,Alberta,Auto Loan,Subprime,M. Singh,15000,10219.43,Current,0,0,No,0.0
+ACC-10143,2025-11,British Columbia,Line of Credit,Prime,K. Brar,3000,1966.06,Current,0,0,No,0.0
+ACC-10144,2026-03,Ontario,Credit Card,Prime,L. Fontaine,3000,1688.42,Current,0,0,No,0.0
+ACC-10145,2026-02,British Columbia,Credit Card,Near-Prime,J. Tremblay,15000,7173.07,Current,0,0,No,0.0
+ACC-10146,2026-02,Ontario,Line of Credit,Near-Prime,R. Osei,8000,2761.0,Current,0,0,No,0.0
+ACC-10147,2026-04,Ontario,Credit Card,Prime,R. Osei,12000,7757.07,Current,0,0,No,0.0
+ACC-10148,2025-10,Ontario,Credit Card,Near-Prime,J. Tremblay,12000,6201.84,Current,0,0,No,0.0
+ACC-10149,2026-06,Ontario,Line of Credit,Prime,K. Brar,12000,7112.89,Current,0,1,No,0.0
+ACC-10150,2026-04,British Columbia,Credit Card,Near-Prime,L. Fontaine,5000,3895.84,Current,0,1,No,0.0
+ACC-10151,2025-09,British Columbia,Personal Loan,Subprime,L. Fontaine,3000,2088.36,31-60 DPD,50,0,No,1011.14
+ACC-10152,2026-03,Ontario,Line of Credit,Subprime,A. Chen,8000,6748.6,61-90 DPD,66,6,No,0.0
+ACC-10153,2026-05,Alberta,Line of Credit,Prime,L. Fontaine,3000,944.64,Current,0,0,No,0.0
+ACC-10154,2026-05,Ontario,Line of Credit,Subprime,M. Singh,12000,3569.26,1-30 DPD,14,6,Yes,2335.28
+ACC-10155,2025-10,Ontario,Credit Card,Near-Prime,J. Tremblay,5000,4267.21,Current,0,0,No,0.0
+ACC-10156,2025-10,Ontario,Credit Card,Near-Prime,R. Osei,8000,2702.45,Current,0,1,No,0.0
+ACC-10157,2026-08,British Columbia,Line of Credit,Prime,R. Osei,5000,1828.4,Current,0,0,No,0.0
+ACC-10158,2025-12,Ontario,Auto Loan,Prime,A. Chen,5000,4256.05,Current,0,0,No,0.0
+ACC-10159,2026-02,Alberta,Auto Loan,Near-Prime,K. Brar,8000,6997.4,61-90 DPD,82,2,No,0.0
+ACC-10160,2025-10,Quebec,Credit Card,Prime,K. Brar,5000,2146.28,Current,0,0,No,0.0
+ACC-10161,2025-12,Ontario,Auto Loan,Near-Prime,A. Chen,8000,3176.04,Current,0,0,No,0.0
+ACC-10162,2025-12,Alberta,Personal Loan,Near-Prime,M. Singh,8000,6595.67,1-30 DPD,10,5,Yes,0.0
+ACC-10163,2026-02,Alberta,Auto Loan,Near-Prime,R. Osei,8000,5592.45,Current,0,0,No,0.0
+ACC-10164,2026-04,Quebec,Personal Loan,Near-Prime,J. Tremblay,8000,6124.88,Current,0,0,No,0.0
+ACC-10165,2025-12,Ontario,Personal Loan,Near-Prime,K. Brar,8000,6428.2,Current,0,0,No,0.0
+ACC-10166,2026-04,Ontario,Personal Loan,Subprime,K. Brar,8000,2508.91,Current,0,0,No,0.0
+ACC-10167,2025-11,Atlantic,Personal Loan,Near-Prime,A. Chen,25000,17493.96,Current,0,1,No,0.0
+ACC-10168,2026-07,Quebec,Personal Loan,Prime,M. Singh,5000,4221.04,31-60 DPD,51,3,Yes,3034.81
+ACC-10169,2025-12,Ontario,Auto Loan,Subprime,M. Singh,12000,5140.27,Current,0,1,No,0.0
+ACC-10170,2026-01,Ontario,Credit Card,Near-Prime,A. Chen,5000,3618.67,31-60 DPD,38,2,Yes,2993.48
+ACC-10171,2026-07,Quebec,Credit Card,Near-Prime,M. Singh,3000,2365.48,31-60 DPD,53,4,No,0.0
+ACC-10172,2026-04,Alberta,Credit Card,Near-Prime,K. Brar,5000,3861.0,Current,0,1,No,0.0
+ACC-10173,2026-03,Ontario,Credit Card,Near-Prime,R. Osei,5000,3743.27,31-60 DPD,46,1,Yes,0.0
+ACC-10174,2025-11,British Columbia,Personal Loan,Near-Prime,M. Singh,15000,13461.51,31-60 DPD,49,5,No,0.0
+ACC-10175,2025-09,Ontario,Credit Card,Near-Prime,J. Tremblay,5000,3063.16,Current,0,0,No,0.0
+ACC-10176,2025-10,Ontario,Auto Loan,Near-Prime,J. Tremblay,12000,8296.74,Current,0,0,No,0.0
+ACC-10177,2026-06,Ontario,Credit Card,Prime,R. Osei,3000,2437.8,Current,0,0,No,0.0
+ACC-10178,2025-12,Quebec,Personal Loan,Prime,A. Chen,8000,6567.11,Current,0,1,No,0.0
+ACC-10179,2026-07,Ontario,Personal Loan,Subprime,L. Fontaine,12000,8615.89,90+ DPD,165,5,No,0.0
+ACC-10180,2026-06,Quebec,Credit Card,Subprime,R. Osei,5000,3946.77,1-30 DPD,5,3,No,1406.71
+ACC-10181,2026-08,Quebec,Auto Loan,Prime,A. Chen,3000,1677.73,Current,0,1,No,0.0
+ACC-10182,2025-11,Ontario,Personal Loan,Prime,M. Singh,5000,4058.16,Current,0,1,No,0.0
+ACC-10183,2026-04,Quebec,Credit Card,Near-Prime,L. Fontaine,3000,2108.41,Current,0,0,No,0.0
+ACC-10184,2025-10,Ontario,Auto Loan,Subprime,R. Osei,5000,2960.59,31-60 DPD,54,1,Yes,0.0
+ACC-10185,2026-01,British Columbia,Line of Credit,Near-Prime,M. Singh,3000,1804.67,Current,0,1,No,0.0
+ACC-10186,2026-05,Ontario,Personal Loan,Near-Prime,M. Singh,15000,13295.43,31-60 DPD,47,3,No,0.0
+ACC-10187,2026-05,Ontario,Credit Card,Subprime,M. Singh,5000,2610.57,31-60 DPD,46,3,No,0.0
+ACC-10188,2025-12,Alberta,Auto Loan,Prime,K. Brar,5000,2165.86,Current,0,2,No,0.0
+ACC-10189,2025-10,Ontario,Auto Loan,Near-Prime,M. Singh,15000,9023.33,Current,0,1,No,0.0
+ACC-10190,2026-07,Quebec,Personal Loan,Near-Prime,J. Tremblay,8000,4530.65,90+ DPD,102,6,No,0.0
+ACC-10191,2025-11,Ontario,Credit Card,Near-Prime,J. Tremblay,5000,1492.49,1-30 DPD,6,1,No,0.0
+ACC-10192,2026-05,Ontario,Auto Loan,Subprime,L. Fontaine,25000,22297.28,31-60 DPD,46,2,No,22251.68
+ACC-10193,2026-05,British Columbia,Personal Loan,Near-Prime,K. Brar,12000,8544.57,1-30 DPD,30,5,No,7477.75
+ACC-10194,2026-01,Ontario,Auto Loan,Near-Prime,R. Osei,20000,7133.33,Current,0,0,No,0.0
+ACC-10195,2026-05,Quebec,Line of Credit,Near-Prime,R. Osei,8000,5401.7,Current,0,0,No,0.0
+ACC-10196,2025-10,Alberta,Credit Card,Prime,R. Osei,12000,8953.35,Current,0,0,No,0.0
+ACC-10197,2025-11,Ontario,Line of Credit,Prime,J. Tremblay,25000,15830.64,Current,0,0,No,0.0
+ACC-10198,2025-12,Ontario,Personal Loan,Subprime,K. Brar,8000,1930.93,61-90 DPD,63,4,No,1106.1
+ACC-10199,2026-07,Ontario,Auto Loan,Subprime,L. Fontaine,8000,2618.53,Current,0,0,No,0.0
+ACC-10200,2026-06,Alberta,Personal Loan,Subprime,A. Chen,5000,4369.84,61-90 DPD,73,5,No,3463.45
+ACC-10201,2026-07,Ontario,Personal Loan,Prime,A. Chen,8000,3577.03,Current,0,0,No,0.0
+ACC-10202,2026-02,Quebec,Personal Loan,Near-Prime,J. Tremblay,20000,11438.43,1-30 DPD,23,3,No,0.0
+ACC-10203,2026-05,British Columbia,Personal Loan,Prime,K. Brar,12000,2943.37,31-60 DPD,47,1,Yes,0.0
+ACC-10204,2026-02,Alberta,Auto Loan,Prime,A. Chen,5000,3551.75,Current,0,0,No,0.0
+ACC-10205,2025-11,British Columbia,Personal Loan,Near-Prime,J. Tremblay,3000,2753.54,Current,0,0,No,0.0
+ACC-10206,2025-09,British Columbia,Auto Loan,Prime,L. Fontaine,3000,2077.94,Current,0,1,No,0.0
+ACC-10207,2025-11,Quebec,Auto Loan,Prime,K. Brar,8000,4866.3,Current,0,0,No,0.0
+ACC-10208,2026-08,Quebec,Line of Credit,Prime,A. Chen,5000,3004.27,Current,0,0,No,0.0
+ACC-10209,2026-01,Ontario,Auto Loan,Near-Prime,L. Fontaine,20000,16636.69,Current,0,0,No,0.0
+ACC-10210,2026-07,Alberta,Auto Loan,Prime,K. Brar,12000,5742.91,Current,0,0,No,0.0
+ACC-10211,2025-09,Quebec,Auto Loan,Near-Prime,K. Brar,15000,3016.43,90+ DPD,159,2,Yes,0.0
+ACC-10212,2025-12,Quebec,Credit Card,Subprime,M. Singh,12000,7016.5,1-30 DPD,28,4,No,0.0
+ACC-10213,2026-05,Alberta,Credit Card,Subprime,L. Fontaine,12000,4940.42,Current,0,0,No,0.0
+ACC-10214,2025-09,British Columbia,Auto Loan,Prime,R. Osei,8000,5168.96,Current,0,0,No,0.0
+ACC-10215,2026-05,Ontario,Auto Loan,Near-Prime,K. Brar,3000,2171.97,Current,0,1,No,0.0
+ACC-10216,2026-08,Quebec,Credit Card,Subprime,A. Chen,5000,2748.78,Current,0,0,No,0.0
+ACC-10217,2026-05,Quebec,Credit Card,Near-Prime,R. Osei,12000,6665.2,Current,0,0,No,0.0
+ACC-10218,2025-12,Quebec,Personal Loan,Subprime,J. Tremblay,3000,1908.62,Current,0,0,No,0.0
+ACC-10219,2026-02,Ontario,Auto Loan,Prime,R. Osei,8000,5161.64,Current,0,1,No,0.0
+ACC-10220,2026-04,Quebec,Personal Loan,Near-Prime,A. Chen,3000,1406.83,31-60 DPD,43,0,Yes,804.13
+ACC-10221,2026-01,Ontario,Credit Card,Subprime,K. Brar,5000,2554.45,1-30 DPD,23,2,Yes,0.0
+ACC-10222,2025-09,Ontario,Line of Credit,Prime,L. Fontaine,8000,3275.35,Current,0,0,No,0.0
+ACC-10223,2025-09,Alberta,Auto Loan,Prime,M. Singh,5000,3701.51,Current,0,0,No,0.0
+ACC-10224,2025-11,Alberta,Auto Loan,Prime,A. Chen,12000,9970.7,Current,0,0,No,0.0
+ACC-10225,2026-06,Alberta,Credit Card,Near-Prime,M. Singh,12000,9300.38,Current,0,0,No,0.0
+ACC-10226,2026-01,Alberta,Credit Card,Subprime,L. Fontaine,5000,4044.89,1-30 DPD,15,2,Yes,0.0
+ACC-10227,2026-08,Alberta,Line of Credit,Near-Prime,A. Chen,20000,17226.12,Current,0,0,No,0.0
+ACC-10228,2026-07,Ontario,Personal Loan,Near-Prime,A. Chen,12000,7440.14,Current,0,0,No,0.0
+ACC-10229,2025-12,Alberta,Line of Credit,Near-Prime,M. Singh,8000,1933.04,31-60 DPD,39,0,Yes,0.0
+ACC-10230,2026-03,Ontario,Auto Loan,Near-Prime,R. Osei,8000,4879.59,Current,0,0,No,0.0
+ACC-10231,2026-08,British Columbia,Credit Card,Near-Prime,M. Singh,12000,6840.06,1-30 DPD,24,4,Yes,2263.47
+ACC-10232,2026-05,British Columbia,Personal Loan,Subprime,K. Brar,15000,4096.24,61-90 DPD,62,5,No,0.0
+ACC-10233,2026-02,British Columbia,Auto Loan,Prime,M. Singh,3000,1049.88,Current,0,0,No,0.0
+ACC-10234,2026-04,Alberta,Credit Card,Near-Prime,J. Tremblay,3000,1353.15,Current,0,0,No,0.0
+ACC-10235,2026-03,Alberta,Line of Credit,Prime,L. Fontaine,5000,2234.59,Current,0,0,No,0.0
+ACC-10236,2025-09,Atlantic,Credit Card,Subprime,K. Brar,8000,4880.84,61-90 DPD,70,2,No,0.0
+ACC-10237,2026-07,British Columbia,Credit Card,Prime,L. Fontaine,12000,5716.99,Current,0,0,No,0.0
+ACC-10238,2025-09,Ontario,Personal Loan,Prime,M. Singh,15000,4501.31,Current,0,0,No,0.0
+ACC-10239,2026-04,Ontario,Personal Loan,Near-Prime,L. Fontaine,20000,9208.71,Current,0,1,No,0.0
+ACC-10240,2025-12,Ontario,Auto Loan,Subprime,R. Osei,12000,5948.03,90+ DPD,103,4,No,4135.31
+ACC-10241,2025-09,Alberta,Credit Card,Near-Prime,K. Brar,15000,5763.61,Current,0,0,No,0.0
+ACC-10242,2026-06,Atlantic,Personal Loan,Near-Prime,J. Tremblay,15000,9361.07,Current,0,0,No,0.0
+ACC-10243,2026-05,Alberta,Auto Loan,Subprime,M. Singh,12000,9587.03,Current,0,0,No,0.0
+ACC-10244,2026-04,Alberta,Line of Credit,Near-Prime,A. Chen,12000,9810.68,Current,0,1,No,0.0
+ACC-10245,2026-08,Ontario,Line of Credit,Prime,J. Tremblay,15000,11151.39,Current,0,0,No,0.0
+ACC-10246,2026-02,Quebec,Personal Loan,Prime,R. Osei,8000,5227.79,Current,0,0,No,0.0
+ACC-10247,2025-12,British Columbia,Personal Loan,Prime,L. Fontaine,5000,2415.01,1-30 DPD,3,2,No,2353.31
+ACC-10248,2026-08,British Columbia,Auto Loan,Prime,J. Tremblay,5000,1267.35,1-30 DPD,21,2,Yes,674.82
+ACC-10249,2026-07,British Columbia,Personal Loan,Prime,A. Chen,8000,5251.59,Current,0,1,No,0.0
+ACC-10250,2026-07,Quebec,Credit Card,Prime,A. Chen,5000,1713.51,Current,0,0,No,0.0
+ACC-10251,2026-06,Ontario,Auto Loan,Prime,J. Tremblay,8000,7151.44,1-30 DPD,24,2,Yes,3273.69
+ACC-10252,2026-01,Ontario,Credit Card,Prime,M. Singh,5000,4445.87,Current,0,0,No,0.0
+ACC-10253,2026-05,British Columbia,Credit Card,Near-Prime,J. Tremblay,5000,3415.34,61-90 DPD,78,4,No,0.0
+ACC-10254,2026-02,British Columbia,Auto Loan,Prime,M. Singh,12000,6991.25,61-90 DPD,74,2,No,4277.8
+ACC-10255,2026-08,Ontario,Credit Card,Subprime,R. Osei,15000,12990.01,1-30 DPD,4,5,Yes,0.0
+ACC-10256,2025-10,British Columbia,Line of Credit,Near-Prime,J. Tremblay,15000,13261.73,1-30 DPD,16,3,No,9925.49
+ACC-10257,2026-01,Ontario,Auto Loan,Near-Prime,L. Fontaine,20000,10641.38,Current,0,1,No,0.0
+ACC-10258,2026-07,British Columbia,Personal Loan,Near-Prime,J. Tremblay,5000,2298.87,Current,0,0,No,0.0
+ACC-10259,2026-07,Alberta,Personal Loan,Near-Prime,J. Tremblay,5000,3663.53,31-60 DPD,55,6,Yes,0.0
+ACC-10260,2026-06,Quebec,Auto Loan,Subprime,J. Tremblay,15000,11818.07,1-30 DPD,10,3,Yes,0.0
+ACC-10261,2025-11,Quebec,Credit Card,Prime,R. Osei,8000,4235.86,Current,0,3,No,0.0
+ACC-10262,2026-05,Alberta,Auto Loan,Near-Prime,M. Singh,5000,3429.86,Current,0,0,No,0.0
+ACC-10263,2025-11,British Columbia,Auto Loan,Near-Prime,M. Singh,20000,16747.71,Current,0,0,No,0.0
+ACC-10264,2025-09,British Columbia,Credit Card,Near-Prime,M. Singh,15000,7254.11,Current,0,0,No,0.0
+ACC-10265,2026-08,Ontario,Personal Loan,Near-Prime,L. Fontaine,8000,2684.1,Current,0,1,No,0.0
+ACC-10266,2025-12,Ontario,Auto Loan,Prime,R. Osei,20000,14386.55,1-30 DPD,4,3,No,0.0
+ACC-10267,2026-04,Ontario,Auto Loan,Near-Prime,R. Osei,25000,16567.75,31-60 DPD,38,1,Yes,0.0
+ACC-10268,2025-09,Alberta,Credit Card,Near-Prime,R. Osei,12000,3491.51,1-30 DPD,25,5,Yes,1487.86
+ACC-10269,2025-09,Alberta,Personal Loan,Subprime,M. Singh,15000,5005.98,Current,0,0,No,0.0
+ACC-10270,2026-08,Ontario,Credit Card,Near-Prime,K. Brar,20000,8367.78,31-60 DPD,31,4,Yes,0.0
+ACC-10271,2026-07,Alberta,Credit Card,Prime,M. Singh,8000,6072.2,Current,0,0,No,0.0
+ACC-10272,2025-11,Quebec,Auto Loan,Subprime,K. Brar,15000,12085.61,1-30 DPD,11,1,No,10997.78
+ACC-10273,2025-11,Alberta,Personal Loan,Subprime,R. Osei,20000,14762.26,Current,0,0,No,0.0
+ACC-10274,2026-02,Quebec,Personal Loan,Near-Prime,R. Osei,5000,3881.27,Current,0,0,No,0.0
+ACC-10275,2026-02,Ontario,Credit Card,Prime,L. Fontaine,3000,1010.34,Current,0,0,No,0.0
+ACC-10276,2026-03,Atlantic,Credit Card,Prime,L. Fontaine,15000,11821.66,Current,0,0,No,0.0
+ACC-10277,2026-06,Ontario,Personal Loan,Prime,M. Singh,20000,18618.8,Current,0,0,No,0.0
+ACC-10278,2025-09,Ontario,Credit Card,Prime,M. Singh,12000,5661.35,Current,0,0,No,0.0
+ACC-10279,2026-06,Quebec,Personal Loan,Near-Prime,J. Tremblay,8000,2800.29,Current,0,0,No,0.0
+ACC-10280,2025-11,Atlantic,Personal Loan,Near-Prime,L. Fontaine,12000,5685.74,Current,0,0,No,0.0
+ACC-10281,2026-02,Atlantic,Personal Loan,Near-Prime,M. Singh,8000,3809.7,Current,0,0,No,0.0
+ACC-10282,2026-07,Alberta,Line of Credit,Near-Prime,M. Singh,8000,5101.15,90+ DPD,112,2,No,0.0
+ACC-10283,2026-06,Atlantic,Auto Loan,Near-Prime,R. Osei,25000,10988.35,Current,0,0,No,0.0
+ACC-10284,2026-05,Quebec,Credit Card,Near-Prime,M. Singh,3000,1404.49,Current,0,0,No,0.0
+ACC-10285,2026-06,British Columbia,Personal Loan,Near-Prime,J. Tremblay,12000,4073.87,1-30 DPD,7,2,Yes,1833.59
+ACC-10286,2025-09,Ontario,Personal Loan,Prime,K. Brar,8000,2821.98,Current,0,2,No,0.0
+ACC-10287,2026-02,Alberta,Line of Credit,Near-Prime,K. Brar,15000,6060.71,61-90 DPD,74,5,No,0.0
+ACC-10288,2026-07,Alberta,Personal Loan,Near-Prime,R. Osei,8000,6734.94,Current,0,0,No,0.0
+ACC-10289,2026-07,Quebec,Personal Loan,Near-Prime,J. Tremblay,8000,3445.71,Current,0,0,No,0.0
+ACC-10290,2025-11,Ontario,Auto Loan,Prime,J. Tremblay,5000,3629.31,Current,0,0,No,0.0
+ACC-10291,2025-10,Ontario,Personal Loan,Subprime,K. Brar,15000,7685.11,61-90 DPD,80,2,No,0.0
+ACC-10292,2026-05,Quebec,Personal Loan,Subprime,K. Brar,8000,6935.76,1-30 DPD,23,4,No,3987.45
+ACC-10293,2026-08,Quebec,Personal Loan,Subprime,L. Fontaine,15000,3139.14,61-90 DPD,85,4,No,0.0
+ACC-10294,2025-10,Quebec,Credit Card,Near-Prime,K. Brar,15000,9778.35,Current,0,0,No,0.0
+ACC-10295,2026-08,Ontario,Credit Card,Near-Prime,R. Osei,5000,1884.85,Current,0,0,No,0.0
+ACC-10296,2026-08,Ontario,Personal Loan,Prime,L. Fontaine,5000,4705.3,Current,0,0,No,0.0
+ACC-10297,2025-09,British Columbia,Line of Credit,Near-Prime,R. Osei,12000,6154.91,Current,0,0,No,0.0
+ACC-10298,2026-03,Quebec,Personal Loan,Near-Prime,K. Brar,12000,8998.17,Current,0,0,No,0.0
+ACC-10299,2025-09,Ontario,Line of Credit,Near-Prime,M. Singh,8000,6858.01,Current,0,0,No,0.0
+ACC-10300,2026-05,Ontario,Line of Credit,Prime,R. Osei,12000,9038.75,Current,0,1,No,0.0
+ACC-10301,2025-11,Alberta,Personal Loan,Subprime,J. Tremblay,5000,2632.08,31-60 DPD,45,1,No,0.0
+ACC-10302,2026-04,Ontario,Personal Loan,Prime,L. Fontaine,8000,7097.56,1-30 DPD,25,5,No,2477.07
+ACC-10303,2026-06,Quebec,Credit Card,Near-Prime,J. Tremblay,8000,7232.3,Current,0,0,No,0.0
+ACC-10304,2026-04,Alberta,Credit Card,Subprime,A. Chen,3000,1494.75,1-30 DPD,8,5,Yes,1194.7
+ACC-10305,2026-03,British Columbia,Auto Loan,Subprime,L. Fontaine,15000,12335.84,31-60 DPD,56,3,Yes,0.0
+ACC-10306,2026-08,Ontario,Auto Loan,Near-Prime,K. Brar,5000,3923.7,Current,0,0,No,0.0
+ACC-10307,2025-09,Quebec,Personal Loan,Near-Prime,R. Osei,15000,11250.5,Current,0,0,No,0.0
+ACC-10308,2026-01,Atlantic,Credit Card,Subprime,A. Chen,8000,6213.1,1-30 DPD,4,1,No,0.0
+ACC-10309,2026-08,Atlantic,Credit Card,Near-Prime,M. Singh,12000,7219.12,Current,0,0,No,0.0
+ACC-10310,2026-02,Ontario,Line of Credit,Subprime,K. Brar,12000,5132.44,1-30 DPD,24,6,Yes,5128.46
+ACC-10311,2025-09,British Columbia,Credit Card,Near-Prime,M. Singh,3000,2245.85,90+ DPD,111,4,No,1875.39
+ACC-10312,2026-01,British Columbia,Personal Loan,Subprime,R. Osei,3000,745.59,31-60 DPD,55,3,No,0.0
+ACC-10313,2026-07,Alberta,Auto Loan,Near-Prime,M. Singh,5000,2939.94,Current,0,0,No,0.0
+ACC-10314,2026-07,Alberta,Auto Loan,Prime,L. Fontaine,12000,6426.96,Current,0,1,No,0.0
+ACC-10315,2026-02,Atlantic,Credit Card,Subprime,A. Chen,12000,4818.41,Current,0,0,No,0.0
+ACC-10316,2025-09,Quebec,Personal Loan,Near-Prime,J. Tremblay,3000,2039.33,1-30 DPD,20,0,No,1259.3
+ACC-10317,2025-10,British Columbia,Line of Credit,Near-Prime,J. Tremblay,8000,3840.47,Current,0,1,No,0.0
+ACC-10318,2026-06,Quebec,Auto Loan,Prime,L. Fontaine,15000,10416.76,Current,0,2,No,0.0
+ACC-10319,2026-05,Ontario,Line of Credit,Prime,R. Osei,15000,10257.72,1-30 DPD,10,4,Yes,6203.62
+ACC-10320,2025-10,British Columbia,Line of Credit,Near-Prime,K. Brar,3000,1227.83,Current,0,0,No,0.0
+ACC-10321,2026-01,Ontario,Line of Credit,Near-Prime,J. Tremblay,8000,1648.75,90+ DPD,130,2,No,0.0
+ACC-10322,2025-12,Ontario,Credit Card,Near-Prime,J. Tremblay,8000,6606.92,Current,0,0,No,0.0
+ACC-10323,2026-08,Ontario,Line of Credit,Prime,L. Fontaine,8000,3211.1,Current,0,0,No,0.0
+ACC-10324,2026-03,Alberta,Auto Loan,Prime,R. Osei,3000,1796.19,Current,0,0,No,0.0
+ACC-10325,2025-10,Alberta,Personal Loan,Near-Prime,M. Singh,8000,6440.66,Current,0,1,No,0.0
+ACC-10326,2026-06,Quebec,Credit Card,Subprime,A. Chen,15000,9271.58,Current,0,1,No,0.0
+ACC-10327,2026-03,Quebec,Credit Card,Near-Prime,A. Chen,20000,16646.17,31-60 DPD,60,6,No,0.0
+ACC-10328,2025-11,British Columbia,Personal Loan,Prime,L. Fontaine,20000,8376.89,Current,0,1,No,0.0
+ACC-10329,2025-11,Atlantic,Line of Credit,Near-Prime,L. Fontaine,3000,1769.25,90+ DPD,166,5,No,0.0
+ACC-10330,2025-09,Ontario,Personal Loan,Near-Prime,K. Brar,12000,9452.07,Current,0,0,No,0.0
+ACC-10331,2026-07,Quebec,Auto Loan,Prime,A. Chen,5000,2447.25,Current,0,0,No,0.0
+ACC-10332,2026-03,Ontario,Line of Credit,Subprime,K. Brar,8000,5542.87,31-60 DPD,47,6,Yes,0.0
+ACC-10333,2025-12,British Columbia,Auto Loan,Prime,J. Tremblay,8000,6835.51,Current,0,2,No,0.0
+ACC-10334,2026-05,British Columbia,Personal Loan,Prime,J. Tremblay,15000,13493.08,Current,0,0,No,0.0
+ACC-10335,2025-09,Quebec,Personal Loan,Prime,R. Osei,15000,9925.45,Current,0,1,No,0.0
+ACC-10336,2026-02,Atlantic,Auto Loan,Subprime,L. Fontaine,3000,1451.46,Current,0,0,No,0.0
+ACC-10337,2026-08,Ontario,Auto Loan,Subprime,M. Singh,12000,5067.42,31-60 DPD,54,5,Yes,0.0
+ACC-10338,2025-11,British Columbia,Credit Card,Prime,J. Tremblay,25000,12588.9,Current,0,1,No,0.0
+ACC-10339,2025-12,Atlantic,Auto Loan,Near-Prime,J. Tremblay,5000,2035.88,Current,0,0,No,0.0
+ACC-10340,2025-11,British Columbia,Personal Loan,Subprime,L. Fontaine,8000,4848.99,Current,0,0,No,0.0
+ACC-10341,2025-11,British Columbia,Credit Card,Prime,M. Singh,5000,1680.72,Current,0,0,No,0.0
+ACC-10342,2025-10,Ontario,Credit Card,Subprime,M. Singh,15000,6138.0,90+ DPD,177,2,No,0.0
+ACC-10343,2025-09,Quebec,Line of Credit,Near-Prime,J. Tremblay,3000,2230.2,Current,0,1,No,0.0
+ACC-10344,2026-07,British Columbia,Credit Card,Near-Prime,A. Chen,8000,6211.6,Current,0,0,No,0.0
+ACC-10345,2026-04,Atlantic,Credit Card,Near-Prime,L. Fontaine,8000,4099.33,Current,0,0,No,0.0
+ACC-10346,2026-01,Alberta,Credit Card,Prime,K. Brar,3000,2812.11,Current,0,0,No,0.0
+ACC-10347,2026-07,Ontario,Credit Card,Near-Prime,A. Chen,12000,4405.47,Current,0,0,No,0.0
+ACC-10348,2026-05,Quebec,Personal Loan,Near-Prime,K. Brar,5000,4041.67,Current,0,0,No,0.0
+ACC-10349,2026-04,Ontario,Personal Loan,Near-Prime,A. Chen,12000,7252.11,31-60 DPD,55,4,No,0.0
+ACC-10350,2026-02,Ontario,Personal Loan,Near-Prime,A. Chen,15000,6281.06,Current,0,0,No,0.0
+ACC-10351,2025-11,Quebec,Credit Card,Prime,K. Brar,8000,5931.84,Current,0,0,No,0.0
+ACC-10352,2026-07,Quebec,Credit Card,Prime,K. Brar,5000,4656.24,Current,0,0,No,0.0
+ACC-10353,2026-07,British Columbia,Personal Loan,Near-Prime,J. Tremblay,3000,2252.0,Current,0,0,No,0.0
+ACC-10354,2025-09,Ontario,Credit Card,Subprime,M. Singh,15000,10875.3,90+ DPD,122,4,No,0.0
+ACC-10355,2025-10,Ontario,Line of Credit,Prime,J. Tremblay,8000,3603.18,Current,0,0,No,0.0
+ACC-10356,2026-08,British Columbia,Line of Credit,Prime,K. Brar,15000,5999.85,31-60 DPD,55,1,No,5079.92
+ACC-10357,2026-08,Quebec,Line of Credit,Subprime,K. Brar,3000,2684.37,Current,0,0,No,0.0
+ACC-10358,2026-04,Alberta,Auto Loan,Near-Prime,A. Chen,5000,2384.0,Current,0,0,No,0.0
+ACC-10359,2026-02,Atlantic,Line of Credit,Prime,J. Tremblay,5000,2931.86,Current,0,0,No,0.0
+ACC-10360,2026-08,Ontario,Credit Card,Prime,K. Brar,25000,14969.33,Current,0,0,No,0.0
+ACC-10361,2025-12,Ontario,Personal Loan,Prime,M. Singh,12000,6854.11,Current,0,0,No,0.0
+ACC-10362,2026-06,Ontario,Auto Loan,Near-Prime,A. Chen,15000,12348.4,Current,0,0,No,0.0
+ACC-10363,2026-01,Ontario,Auto Loan,Prime,M. Singh,5000,1810.16,1-30 DPD,17,3,Yes,1270.31
+ACC-10364,2026-06,Ontario,Credit Card,Prime,L. Fontaine,15000,8377.42,Current,0,1,No,0.0
+ACC-10365,2026-07,Ontario,Credit Card,Prime,L. Fontaine,5000,1907.86,1-30 DPD,24,1,No,639.88
+ACC-10366,2026-08,Ontario,Personal Loan,Prime,L. Fontaine,15000,11593.41,Current,0,0,No,0.0
+ACC-10367,2026-07,British Columbia,Auto Loan,Subprime,K. Brar,12000,4652.66,31-60 DPD,55,3,No,2672.2
+ACC-10368,2025-12,Ontario,Credit Card,Prime,K. Brar,5000,1861.2,Current,0,0,No,0.0
+ACC-10369,2025-10,Alberta,Credit Card,Subprime,J. Tremblay,12000,8719.81,Current,0,0,No,0.0
+ACC-10370,2026-06,Ontario,Personal Loan,Subprime,J. Tremblay,3000,2267.02,1-30 DPD,10,4,Yes,0.0
+ACC-10371,2026-03,Quebec,Auto Loan,Near-Prime,A. Chen,8000,2323.38,31-60 DPD,31,2,No,1462.95
+ACC-10372,2026-04,Ontario,Credit Card,Prime,K. Brar,15000,5094.82,Current,0,0,No,0.0
+ACC-10373,2025-09,Ontario,Line of Credit,Near-Prime,R. Osei,5000,3013.76,61-90 DPD,62,4,No,0.0
+ACC-10374,2026-02,British Columbia,Credit Card,Near-Prime,M. Singh,5000,3779.5,Current,0,0,No,0.0
+ACC-10375,2026-08,Atlantic,Personal Loan,Prime,A. Chen,20000,14095.52,Current,0,1,No,0.0
+ACC-10376,2026-07,Quebec,Credit Card,Prime,R. Osei,8000,6588.73,Current,0,0,No,0.0
+ACC-10377,2026-06,Alberta,Credit Card,Near-Prime,J. Tremblay,12000,10150.6,Current,0,0,No,0.0
+ACC-10378,2025-12,Alberta,Line of Credit,Near-Prime,L. Fontaine,3000,2490.55,61-90 DPD,89,6,No,0.0
+ACC-10379,2026-08,British Columbia,Credit Card,Prime,L. Fontaine,8000,5858.29,Current,0,0,No,0.0
+ACC-10380,2026-08,Ontario,Personal Loan,Near-Prime,J. Tremblay,20000,7344.64,Current,0,0,No,0.0
+ACC-10381,2025-09,British Columbia,Credit Card,Near-Prime,R. Osei,3000,1189.02,Current,0,0,No,0.0
+ACC-10382,2026-02,Alberta,Line of Credit,Near-Prime,J. Tremblay,12000,7499.94,1-30 DPD,2,2,Yes,2757.36
+ACC-10383,2025-12,Atlantic,Auto Loan,Prime,K. Brar,3000,2484.32,Current,0,0,No,0.0
+ACC-10384,2025-11,Ontario,Auto Loan,Near-Prime,K. Brar,20000,15600.58,Current,0,0,No,0.0
+ACC-10385,2026-02,Ontario,Auto Loan,Subprime,J. Tremblay,15000,4959.72,1-30 DPD,11,0,No,3026.04
+ACC-10386,2025-11,Alberta,Personal Loan,Near-Prime,J. Tremblay,12000,8167.4,Current,0,0,No,0.0
+ACC-10387,2026-07,Ontario,Personal Loan,Near-Prime,R. Osei,12000,9996.53,Current,0,0,No,0.0
+ACC-10388,2026-08,Quebec,Credit Card,Near-Prime,L. Fontaine,12000,3539.78,61-90 DPD,87,5,No,0.0
+ACC-10389,2026-05,Atlantic,Auto Loan,Prime,K. Brar,5000,2484.81,Current,0,1,No,0.0
+ACC-10390,2026-03,Atlantic,Credit Card,Subprime,M. Singh,8000,7028.2,1-30 DPD,11,1,Yes,4597.51
+ACC-10391,2026-04,British Columbia,Line of Credit,Near-Prime,L. Fontaine,8000,5294.27,1-30 DPD,27,2,No,0.0
+ACC-10392,2025-10,British Columbia,Line of Credit,Prime,A. Chen,5000,2598.77,Current,0,0,No,0.0
+ACC-10393,2025-12,Ontario,Personal Loan,Near-Prime,A. Chen,12000,8242.79,Current,0,1,No,0.0
+ACC-10394,2026-05,Ontario,Credit Card,Near-Prime,M. Singh,8000,3940.89,Current,0,0,No,0.0
+ACC-10395,2026-06,Ontario,Auto Loan,Near-Prime,J. Tremblay,12000,7519.43,Current,0,0,No,0.0
+ACC-10396,2026-01,Ontario,Credit Card,Subprime,J. Tremblay,15000,11115.29,Current,0,0,No,0.0
+ACC-10397,2026-02,Atlantic,Auto Loan,Prime,L. Fontaine,15000,8620.9,Current,0,1,No,0.0
+ACC-10398,2026-05,Alberta,Personal Loan,Prime,J. Tremblay,25000,9905.86,1-30 DPD,29,2,No,3350.12
+ACC-10399,2026-06,Alberta,Auto Loan,Subprime,K. Brar,20000,8592.35,Current,0,0,No,0.0
+ACC-10400,2026-05,Quebec,Personal Loan,Near-Prime,M. Singh,15000,4642.03,Current,0,0,No,0.0
+ACC-10401,2026-06,Alberta,Personal Loan,Near-Prime,J. Tremblay,3000,1016.19,Current,0,0,No,0.0
+ACC-10402,2026-03,British Columbia,Auto Loan,Near-Prime,M. Singh,8000,3249.51,Current,0,0,No,0.0
+ACC-10403,2025-11,Ontario,Auto Loan,Subprime,L. Fontaine,8000,2413.83,1-30 DPD,26,1,No,1693.8
+ACC-10404,2026-03,Alberta,Auto Loan,Subprime,K. Brar,3000,1261.29,Current,0,0,No,0.0
+ACC-10405,2025-09,British Columbia,Personal Loan,Near-Prime,R. Osei,12000,4925.12,Current,0,0,No,0.0
+ACC-10406,2026-02,Ontario,Auto Loan,Prime,A. Chen,5000,4584.19,Current,0,0,No,0.0
+ACC-10407,2026-08,Ontario,Auto Loan,Prime,M. Singh,12000,6804.15,Current,0,0,No,0.0
+ACC-10408,2025-11,Ontario,Personal Loan,Subprime,A. Chen,3000,1262.26,31-60 DPD,54,2,No,1083.35
+ACC-10409,2026-05,Quebec,Auto Loan,Prime,J. Tremblay,3000,2545.32,Current,0,0,No,0.0
+ACC-10410,2025-11,British Columbia,Line of Credit,Near-Prime,K. Brar,5000,3797.05,31-60 DPD,54,4,No,0.0
+ACC-10411,2026-02,Ontario,Credit Card,Near-Prime,M. Singh,12000,7652.97,Current,0,1,No,0.0
+ACC-10412,2026-02,British Columbia,Auto Loan,Near-Prime,L. Fontaine,3000,1459.08,90+ DPD,115,5,No,0.0
+ACC-10413,2025-11,Ontario,Credit Card,Prime,R. Osei,12000,8953.79,1-30 DPD,7,4,No,0.0
+ACC-10414,2026-08,Quebec,Personal Loan,Prime,K. Brar,20000,9746.4,Current,0,0,No,0.0
+ACC-10415,2025-10,Quebec,Personal Loan,Prime,L. Fontaine,3000,727.89,1-30 DPD,3,0,Yes,0.0
+ACC-10416,2026-08,Ontario,Personal Loan,Prime,A. Chen,5000,3411.3,Current,0,0,No,0.0
+ACC-10417,2025-09,British Columbia,Credit Card,Subprime,A. Chen,15000,6105.05,Current,0,0,No,0.0
+ACC-10418,2026-06,Alberta,Auto Loan,Near-Prime,A. Chen,12000,10086.02,Current,0,0,No,0.0
+ACC-10419,2025-12,British Columbia,Credit Card,Prime,A. Chen,5000,3465.73,Current,0,0,No,0.0
+ACC-10420,2025-11,Alberta,Auto Loan,Prime,M. Singh,20000,15191.2,Current,0,0,No,0.0
+ACC-10421,2026-06,Alberta,Line of Credit,Subprime,K. Brar,20000,7728.06,Current,0,0,No,0.0
+ACC-10422,2026-06,Ontario,Personal Loan,Prime,L. Fontaine,5000,3125.19,Current,0,0,No,0.0
+ACC-10423,2026-08,Ontario,Credit Card,Near-Prime,J. Tremblay,8000,7478.12,Current,0,0,No,0.0
+ACC-10424,2025-10,Atlantic,Auto Loan,Prime,R. Osei,20000,6708.06,Current,0,0,No,0.0
+ACC-10425,2026-06,Atlantic,Auto Loan,Near-Prime,J. Tremblay,5000,2171.39,Current,0,0,No,0.0
+ACC-10426,2026-04,British Columbia,Auto Loan,Prime,J. Tremblay,5000,4083.94,Current,0,0,No,0.0
+ACC-10427,2025-11,British Columbia,Personal Loan,Near-Prime,R. Osei,25000,9349.45,90+ DPD,141,7,No,0.0
+ACC-10428,2026-07,Atlantic,Credit Card,Near-Prime,A. Chen,3000,1133.91,Current,0,0,No,0.0
+ACC-10429,2026-02,Alberta,Line of Credit,Prime,L. Fontaine,8000,6309.49,Current,0,2,No,0.0
+ACC-10430,2026-02,Alberta,Personal Loan,Prime,A. Chen,12000,10409.74,Current,0,0,No,0.0
+ACC-10431,2026-03,Ontario,Credit Card,Prime,R. Osei,5000,4218.44,Current,0,0,No,0.0
+ACC-10432,2026-01,Ontario,Credit Card,Near-Prime,A. Chen,5000,1368.9,90+ DPD,137,7,No,0.0
+ACC-10433,2025-11,Ontario,Line of Credit,Prime,M. Singh,12000,10335.18,Current,0,0,No,0.0
+ACC-10434,2025-10,Atlantic,Credit Card,Prime,L. Fontaine,20000,10643.5,Current,0,0,No,0.0
+ACC-10435,2026-05,Quebec,Auto Loan,Prime,K. Brar,3000,2816.34,Current,0,0,No,0.0
+ACC-10436,2026-01,Ontario,Credit Card,Near-Prime,L. Fontaine,8000,5232.98,90+ DPD,140,3,No,0.0
+ACC-10437,2025-11,Ontario,Credit Card,Subprime,A. Chen,8000,3462.06,Current,0,0,No,0.0
+ACC-10438,2025-10,Ontario,Personal Loan,Prime,J. Tremblay,8000,3025.89,Current,0,0,No,0.0
+ACC-10439,2025-10,British Columbia,Line of Credit,Prime,A. Chen,15000,11754.28,Current,0,0,No,0.0
+ACC-10440,2026-03,Ontario,Credit Card,Prime,J. Tremblay,25000,11960.73,Current,0,0,No,0.0
+ACC-10441,2026-06,Ontario,Auto Loan,Near-Prime,A. Chen,8000,1655.5,61-90 DPD,82,7,No,0.0
+ACC-10442,2026-08,Alberta,Personal Loan,Subprime,K. Brar,8000,3489.05,1-30 DPD,6,1,Yes,1635.72
+ACC-10443,2026-02,Ontario,Personal Loan,Near-Prime,A. Chen,5000,2155.55,61-90 DPD,79,3,No,0.0
+ACC-10444,2026-03,Ontario,Personal Loan,Near-Prime,L. Fontaine,20000,6916.96,Current,0,1,No,0.0
+ACC-10445,2026-01,Alberta,Auto Loan,Near-Prime,K. Brar,5000,2689.98,1-30 DPD,29,1,No,0.0
+ACC-10446,2025-10,Ontario,Credit Card,Near-Prime,J. Tremblay,12000,6667.9,Current,0,0,No,0.0
+ACC-10447,2026-08,Ontario,Credit Card,Near-Prime,M. Singh,5000,3321.77,61-90 DPD,80,2,No,0.0
+ACC-10448,2026-06,Ontario,Line of Credit,Subprime,K. Brar,25000,11863.81,31-60 DPD,53,3,No,0.0
+ACC-10449,2026-05,British Columbia,Auto Loan,Prime,R. Osei,5000,3923.58,Current,0,1,No,0.0
+ACC-10450,2026-03,Atlantic,Credit Card,Near-Prime,K. Brar,5000,3850.34,61-90 DPD,90,3,No,0.0
+ACC-10451,2026-08,British Columbia,Credit Card,Subprime,A. Chen,8000,4839.01,Current,0,1,No,0.0
+ACC-10452,2026-06,Ontario,Line of Credit,Prime,A. Chen,12000,4034.78,Current,0,0,No,0.0
+ACC-10453,2025-09,Ontario,Auto Loan,Prime,K. Brar,8000,7136.3,Current,0,0,No,0.0
+ACC-10454,2025-10,Quebec,Personal Loan,Prime,A. Chen,5000,1840.77,1-30 DPD,11,2,No,0.0
+ACC-10455,2025-12,Ontario,Credit Card,Subprime,A. Chen,8000,4842.21,61-90 DPD,84,2,No,0.0
+ACC-10456,2026-08,Alberta,Personal Loan,Prime,M. Singh,8000,6712.8,Current,0,0,No,0.0
+ACC-10457,2025-11,Alberta,Auto Loan,Subprime,J. Tremblay,15000,12772.6,Current,0,0,No,0.0
+ACC-10458,2026-02,Alberta,Line of Credit,Subprime,L. Fontaine,15000,4999.82,Current,0,0,No,0.0
+ACC-10459,2025-12,British Columbia,Auto Loan,Near-Prime,K. Brar,8000,6296.72,Current,0,0,No,0.0
+ACC-10460,2025-11,Ontario,Personal Loan,Near-Prime,M. Singh,3000,1887.62,61-90 DPD,71,7,No,0.0
+ACC-10461,2026-08,Ontario,Personal Loan,Subprime,K. Brar,12000,7442.11,61-90 DPD,74,7,Yes,0.0
+ACC-10462,2025-11,Ontario,Credit Card,Prime,L. Fontaine,5000,4326.36,Current,0,0,No,0.0
+ACC-10463,2026-01,British Columbia,Credit Card,Subprime,R. Osei,5000,1491.91,31-60 DPD,45,6,No,724.41
+ACC-10464,2025-09,Ontario,Personal Loan,Near-Prime,M. Singh,3000,1785.27,61-90 DPD,61,3,No,0.0
+ACC-10465,2025-11,British Columbia,Line of Credit,Prime,A. Chen,15000,4741.46,Current,0,0,No,0.0
+ACC-10466,2025-12,Ontario,Personal Loan,Prime,J. Tremblay,8000,6426.98,Current,0,0,No,0.0
+ACC-10467,2025-10,Quebec,Line of Credit,Near-Prime,M. Singh,5000,4403.57,Current,0,0,No,0.0
+ACC-10468,2026-08,Ontario,Credit Card,Near-Prime,L. Fontaine,3000,1760.91,1-30 DPD,6,2,No,0.0
+ACC-10469,2026-05,Quebec,Personal Loan,Prime,A. Chen,8000,6797.47,Current,0,0,No,0.0
+ACC-10470,2026-07,Ontario,Credit Card,Near-Prime,M. Singh,3000,2351.74,31-60 DPD,38,1,No,0.0
+ACC-10471,2026-02,Ontario,Auto Loan,Subprime,M. Singh,12000,3295.64,1-30 DPD,8,1,No,0.0
+ACC-10472,2025-11,Atlantic,Line of Credit,Prime,K. Brar,15000,7327.93,Current,0,0,No,0.0
+ACC-10473,2026-04,Ontario,Personal Loan,Prime,J. Tremblay,20000,13115.22,Current,0,0,No,0.0
+ACC-10474,2026-06,Ontario,Auto Loan,Near-Prime,R. Osei,20000,11459.58,90+ DPD,118,3,No,0.0
+ACC-10475,2026-01,Ontario,Personal Loan,Near-Prime,L. Fontaine,15000,6371.57,Current,0,0,No,0.0
+ACC-10476,2026-08,Ontario,Auto Loan,Near-Prime,M. Singh,8000,3965.02,Current,0,0,No,0.0
+ACC-10477,2026-03,British Columbia,Auto Loan,Subprime,R. Osei,12000,7254.74,Current,0,0,No,0.0
+ACC-10478,2025-12,Atlantic,Personal Loan,Subprime,R. Osei,5000,1120.51,61-90 DPD,70,4,No,0.0
+ACC-10479,2026-03,Ontario,Credit Card,Prime,K. Brar,25000,6736.52,31-60 DPD,44,3,No,0.0
+ACC-10480,2026-06,Ontario,Personal Loan,Prime,K. Brar,8000,7511.32,Current,0,0,No,0.0
+ACC-10481,2026-05,British Columbia,Line of Credit,Near-Prime,J. Tremblay,5000,2899.01,1-30 DPD,3,4,No,1461.64
+ACC-10482,2026-07,Ontario,Personal Loan,Near-Prime,A. Chen,5000,3395.75,Current,0,1,No,0.0
+ACC-10483,2025-12,Quebec,Credit Card,Prime,L. Fontaine,3000,914.34,Current,0,0,No,0.0
+ACC-10484,2025-09,British Columbia,Personal Loan,Subprime,R. Osei,8000,5617.23,31-60 DPD,45,4,No,0.0
+ACC-10485,2026-08,Atlantic,Auto Loan,Near-Prime,J. Tremblay,8000,6697.62,Current,0,0,No,0.0
+ACC-10486,2026-01,Ontario,Line of Credit,Near-Prime,K. Brar,8000,2583.76,1-30 DPD,18,4,No,1454.91
+ACC-10487,2026-06,Ontario,Auto Loan,Subprime,A. Chen,5000,2643.63,Current,0,0,No,0.0
+ACC-10488,2026-01,Quebec,Personal Loan,Prime,A. Chen,5000,1652.94,Current,0,0,No,0.0
+ACC-10489,2025-10,Ontario,Auto Loan,Prime,L. Fontaine,8000,6361.83,Current,0,1,No,0.0
+ACC-10490,2026-03,Quebec,Auto Loan,Subprime,M. Singh,8000,5598.36,Current,0,2,No,0.0
+ACC-10491,2026-02,Quebec,Personal Loan,Near-Prime,J. Tremblay,5000,4495.78,61-90 DPD,61,2,No,1835.02
+ACC-10492,2026-04,Quebec,Personal Loan,Subprime,J. Tremblay,3000,1329.1,90+ DPD,167,9,No,0.0
+ACC-10493,2025-09,British Columbia,Personal Loan,Near-Prime,M. Singh,5000,4421.1,1-30 DPD,4,4,No,0.0
+ACC-10494,2026-03,Atlantic,Credit Card,Subprime,A. Chen,20000,7355.04,1-30 DPD,28,0,No,4852.17
+ACC-10495,2026-07,Ontario,Credit Card,Near-Prime,K. Brar,5000,3606.97,Current,0,0,No,0.0
+ACC-10496,2025-09,Quebec,Line of Credit,Near-Prime,R. Osei,15000,12962.8,Current,0,0,No,0.0
+ACC-10497,2026-05,British Columbia,Auto Loan,Prime,M. Singh,3000,1375.79,Current,0,2,No,0.0
+ACC-10498,2025-10,Ontario,Line of Credit,Subprime,J. Tremblay,5000,1418.36,31-60 DPD,53,1,Yes,0.0
+ACC-10499,2026-02,British Columbia,Personal Loan,Prime,M. Singh,5000,3170.77,Current,0,1,No,0.0
+ACC-10500,2026-07,British Columbia,Credit Card,Subprime,L. Fontaine,3000,2219.9,Current,0,0,No,0.0
+ACC-10501,2026-02,Quebec,Credit Card,Near-Prime,L. Fontaine,8000,6851.82,31-60 DPD,33,2,Yes,0.0
+ACC-10502,2026-02,Ontario,Line of Credit,Prime,M. Singh,5000,3847.84,Current,0,0,No,0.0
+ACC-10503,2025-11,Quebec,Personal Loan,Subprime,L. Fontaine,25000,10545.82,1-30 DPD,16,5,Yes,0.0
+ACC-10504,2026-08,Ontario,Credit Card,Prime,A. Chen,15000,11970.89,Current,0,0,No,0.0
+ACC-10505,2026-03,Alberta,Personal Loan,Subprime,M. Singh,25000,14957.21,1-30 DPD,21,3,Yes,0.0
+ACC-10506,2026-06,Ontario,Auto Loan,Near-Prime,L. Fontaine,20000,11780.16,Current,0,0,No,0.0
+ACC-10507,2026-05,Quebec,Personal Loan,Near-Prime,L. Fontaine,5000,2950.05,Current,0,0,No,0.0
+ACC-10508,2026-02,Ontario,Auto Loan,Prime,L. Fontaine,15000,13272.5,Current,0,0,No,0.0
+ACC-10509,2025-10,Quebec,Personal Loan,Prime,K. Brar,15000,4835.17,Current,0,0,No,0.0
+ACC-10510,2026-08,Ontario,Auto Loan,Near-Prime,M. Singh,5000,3047.62,1-30 DPD,22,3,Yes,0.0
+ACC-10511,2026-07,Ontario,Credit Card,Prime,K. Brar,3000,1767.44,Current,0,1,No,0.0
+ACC-10512,2025-11,Ontario,Credit Card,Near-Prime,K. Brar,15000,4791.31,1-30 DPD,29,6,Yes,2805.44
+ACC-10513,2025-11,Ontario,Personal Loan,Near-Prime,M. Singh,20000,18772.27,Current,0,1,No,0.0
+ACC-10514,2026-06,Ontario,Auto Loan,Near-Prime,M. Singh,3000,1732.44,Current,0,0,No,0.0
+ACC-10515,2026-02,Atlantic,Credit Card,Subprime,J. Tremblay,8000,3589.59,90+ DPD,95,5,No,0.0
+ACC-10516,2026-03,Ontario,Credit Card,Subprime,J. Tremblay,15000,11623.22,61-90 DPD,87,5,No,0.0
+ACC-10517,2026-06,Ontario,Line of Credit,Prime,K. Brar,15000,10660.83,Current,0,0,No,0.0
+ACC-10518,2025-12,Quebec,Credit Card,Prime,M. Singh,12000,6728.95,Current,0,1,No,0.0
+ACC-10519,2026-05,Ontario,Auto Loan,Subprime,L. Fontaine,5000,3438.13,Current,0,0,No,0.0
+ACC-10520,2026-01,Ontario,Credit Card,Near-Prime,R. Osei,15000,4324.16,31-60 DPD,39,4,No,1617.04
+ACC-10521,2025-10,Quebec,Credit Card,Near-Prime,M. Singh,3000,2357.67,Current,0,1,No,0.0
+ACC-10522,2026-05,British Columbia,Auto Loan,Subprime,A. Chen,3000,2288.83,Current,0,0,No,0.0
+ACC-10523,2026-06,Ontario,Auto Loan,Prime,M. Singh,8000,5003.22,Current,0,1,No,0.0
+ACC-10524,2026-06,British Columbia,Personal Loan,Subprime,A. Chen,8000,4729.45,Current,0,0,No,0.0
+ACC-10525,2026-07,Atlantic,Personal Loan,Near-Prime,A. Chen,8000,3746.6,Current,0,1,No,0.0
+ACC-10526,2026-08,Atlantic,Personal Loan,Near-Prime,J. Tremblay,8000,4839.11,Current,0,0,No,0.0
+ACC-10527,2026-01,Alberta,Auto Loan,Near-Prime,A. Chen,8000,3077.67,Current,0,0,No,0.0
+ACC-10528,2025-10,Ontario,Personal Loan,Prime,J. Tremblay,3000,2178.85,Current,0,0,No,0.0
+ACC-10529,2026-08,British Columbia,Credit Card,Near-Prime,K. Brar,3000,2523.16,Current,0,1,No,0.0
+ACC-10530,2026-06,British Columbia,Credit Card,Prime,R. Osei,12000,9828.74,Current,0,0,No,0.0
+ACC-10531,2026-03,Alberta,Line of Credit,Near-Prime,J. Tremblay,12000,8072.77,Current,0,0,No,0.0
+ACC-10532,2025-09,Quebec,Line of Credit,Near-Prime,K. Brar,20000,17383.91,Current,0,0,No,0.0
+ACC-10533,2025-12,Ontario,Personal Loan,Near-Prime,A. Chen,5000,1974.81,Current,0,1,No,0.0
+ACC-10534,2026-06,British Columbia,Auto Loan,Prime,L. Fontaine,5000,2376.3,Current,0,2,No,0.0
+ACC-10535,2025-10,Ontario,Credit Card,Prime,J. Tremblay,5000,4375.24,1-30 DPD,13,1,No,2144.75
+ACC-10536,2025-12,Ontario,Personal Loan,Near-Prime,M. Singh,8000,3266.0,Current,0,2,No,0.0
+ACC-10537,2026-01,Ontario,Personal Loan,Prime,J. Tremblay,15000,11408.69,Current,0,0,No,0.0
+ACC-10538,2026-02,Ontario,Auto Loan,Prime,K. Brar,8000,7580.37,Current,0,0,No,0.0
+ACC-10539,2026-08,Alberta,Auto Loan,Subprime,R. Osei,8000,5542.38,Current,0,0,No,0.0
+ACC-10540,2026-07,Ontario,Personal Loan,Subprime,J. Tremblay,3000,1272.03,1-30 DPD,29,5,Yes,0.0
+ACC-10541,2025-10,Ontario,Personal Loan,Near-Prime,M. Singh,8000,4597.97,Current,0,0,No,0.0
+ACC-10542,2026-06,Quebec,Credit Card,Near-Prime,M. Singh,5000,3091.71,61-90 DPD,86,2,Yes,0.0
+ACC-10543,2026-06,British Columbia,Personal Loan,Subprime,M. Singh,8000,6733.83,1-30 DPD,2,5,No,3178.86
+ACC-10544,2026-03,Ontario,Line of Credit,Near-Prime,J. Tremblay,12000,4765.6,Current,0,1,No,0.0
+ACC-10545,2025-10,Ontario,Auto Loan,Near-Prime,A. Chen,5000,2861.5,Current,0,0,No,0.0
+ACC-10546,2025-11,Ontario,Line of Credit,Near-Prime,L. Fontaine,8000,7422.35,Current,0,0,No,0.0
+ACC-10547,2026-08,British Columbia,Personal Loan,Subprime,L. Fontaine,8000,4451.28,90+ DPD,167,1,No,0.0
+ACC-10548,2026-02,Quebec,Line of Credit,Prime,M. Singh,5000,2172.09,Current,0,1,No,0.0
+ACC-10549,2026-02,Ontario,Credit Card,Prime,R. Osei,5000,1558.83,31-60 DPD,59,2,No,0.0
+ACC-10550,2026-07,Ontario,Credit Card,Subprime,A. Chen,3000,769.41,61-90 DPD,64,4,No,0.0
+ACC-10551,2025-11,Quebec,Line of Credit,Subprime,K. Brar,5000,1957.4,1-30 DPD,1,4,Yes,0.0
+ACC-10552,2025-12,Ontario,Credit Card,Near-Prime,M. Singh,3000,1040.82,Current,0,0,No,0.0
+ACC-10553,2025-09,Quebec,Credit Card,Subprime,L. Fontaine,5000,4335.28,Current,0,0,No,0.0
+ACC-10554,2026-03,Ontario,Line of Credit,Near-Prime,J. Tremblay,15000,12336.01,Current,0,2,No,0.0
+ACC-10555,2025-12,Quebec,Credit Card,Subprime,M. Singh,12000,10489.99,61-90 DPD,67,4,No,3263.9
+ACC-10556,2026-05,Atlantic,Line of Credit,Prime,J. Tremblay,3000,2464.39,Current,0,0,No,0.0
+ACC-10557,2026-03,Ontario,Personal Loan,Near-Prime,R. Osei,5000,3851.19,31-60 DPD,31,6,No,0.0
+ACC-10558,2026-02,Alberta,Credit Card,Subprime,M. Singh,12000,7478.42,1-30 DPD,3,4,Yes,0.0
+ACC-10559,2026-08,Quebec,Personal Loan,Near-Prime,R. Osei,8000,5896.28,Current,0,0,No,0.0
+ACC-10560,2025-10,Ontario,Personal Loan,Subprime,L. Fontaine,8000,5852.97,Current,0,0,No,0.0
+ACC-10561,2026-06,Quebec,Personal Loan,Subprime,A. Chen,20000,8935.41,31-60 DPD,37,3,Yes,5764.42
+ACC-10562,2025-12,Ontario,Line of Credit,Prime,L. Fontaine,15000,7129.99,Current,0,0,No,0.0
+ACC-10563,2026-01,British Columbia,Line of Credit,Near-Prime,J. Tremblay,15000,8238.03,Current,0,1,No,0.0
+ACC-10564,2026-01,Quebec,Credit Card,Prime,R. Osei,5000,4360.5,Current,0,0,No,0.0
+ACC-10565,2026-03,Ontario,Credit Card,Subprime,J. Tremblay,8000,3625.33,31-60 DPD,58,3,No,0.0
+ACC-10566,2026-04,British Columbia,Line of Credit,Prime,J. Tremblay,8000,2568.85,Current,0,1,No,0.0
+ACC-10567,2026-03,Ontario,Credit Card,Prime,J. Tremblay,20000,9310.63,Current,0,0,No,0.0
+ACC-10568,2026-04,Ontario,Line of Credit,Prime,K. Brar,12000,4025.17,Current,0,1,No,0.0
+ACC-10569,2026-03,Quebec,Auto Loan,Prime,J. Tremblay,12000,7493.05,Current,0,0,No,0.0
+ACC-10570,2026-07,Ontario,Personal Loan,Prime,L. Fontaine,8000,6026.64,Current,0,0,No,0.0
+ACC-10571,2025-10,Alberta,Line of Credit,Prime,R. Osei,12000,5232.59,Current,0,0,No,0.0
+ACC-10572,2025-12,British Columbia,Auto Loan,Prime,M. Singh,8000,3367.1,1-30 DPD,18,6,No,2236.21
+ACC-10573,2026-01,Ontario,Credit Card,Near-Prime,J. Tremblay,15000,14112.86,Current,0,1,No,0.0
+ACC-10574,2026-06,Quebec,Line of Credit,Near-Prime,R. Osei,8000,3949.1,31-60 DPD,41,3,No,0.0
+ACC-10575,2026-08,Ontario,Personal Loan,Near-Prime,K. Brar,15000,13195.76,Current,0,0,No,0.0
+ACC-10576,2026-01,Ontario,Personal Loan,Near-Prime,J. Tremblay,8000,7551.89,Current,0,1,No,0.0
+ACC-10577,2026-02,Quebec,Personal Loan,Near-Prime,M. Singh,15000,9701.36,1-30 DPD,12,2,No,6922.95
+ACC-10578,2025-11,Ontario,Auto Loan,Subprime,L. Fontaine,5000,1726.29,1-30 DPD,20,5,Yes,1667.93
+ACC-10579,2025-10,Alberta,Line of Credit,Near-Prime,J. Tremblay,12000,9706.8,Current,0,0,No,0.0
+ACC-10580,2026-08,Quebec,Credit Card,Near-Prime,L. Fontaine,12000,7702.38,Current,0,1,No,0.0
+ACC-10581,2026-01,Quebec,Credit Card,Subprime,K. Brar,5000,1774.21,Current,0,0,No,0.0
+ACC-10582,2026-06,British Columbia,Auto Loan,Prime,J. Tremblay,8000,4040.17,Current,0,0,No,0.0
+ACC-10583,2026-03,Alberta,Personal Loan,Near-Prime,A. Chen,15000,5420.38,Current,0,0,No,0.0
+ACC-10584,2025-12,Ontario,Credit Card,Prime,K. Brar,5000,4179.68,Current,0,0,No,0.0
+ACC-10585,2026-07,Ontario,Personal Loan,Prime,R. Osei,12000,3678.89,Current,0,0,No,0.0
+ACC-10586,2026-03,British Columbia,Auto Loan,Near-Prime,M. Singh,8000,6812.11,Current,0,1,No,0.0
+ACC-10587,2025-09,British Columbia,Personal Loan,Prime,J. Tremblay,8000,5852.86,Current,0,0,No,0.0
+ACC-10588,2026-01,Atlantic,Line of Credit,Near-Prime,R. Osei,8000,2572.56,90+ DPD,95,7,No,0.0
+ACC-10589,2026-07,British Columbia,Credit Card,Subprime,A. Chen,12000,7036.7,Current,0,1,No,0.0
+ACC-10590,2026-04,Alberta,Personal Loan,Near-Prime,J. Tremblay,25000,12612.05,Current,0,0,No,0.0
+ACC-10591,2026-05,Atlantic,Personal Loan,Prime,J. Tremblay,5000,4379.25,Current,0,1,No,0.0
+ACC-10592,2026-02,Alberta,Personal Loan,Prime,J. Tremblay,8000,2935.11,Current,0,0,No,0.0
+ACC-10593,2026-07,Ontario,Credit Card,Near-Prime,L. Fontaine,12000,7428.32,Current,0,0,No,0.0
+ACC-10594,2026-02,Quebec,Credit Card,Subprime,A. Chen,25000,7841.85,Current,0,0,No,0.0
+ACC-10595,2025-09,Ontario,Credit Card,Near-Prime,M. Singh,25000,16464.93,Current,0,2,No,0.0
+ACC-10596,2026-02,Ontario,Line of Credit,Near-Prime,L. Fontaine,12000,10369.84,90+ DPD,120,3,Yes,0.0
+ACC-10597,2026-05,Atlantic,Credit Card,Subprime,M. Singh,8000,2255.56,90+ DPD,107,3,No,0.0
+ACC-10598,2025-09,Ontario,Personal Loan,Subprime,M. Singh,8000,2742.15,Current,0,0,No,0.0
+ACC-10599,2026-05,Ontario,Auto Loan,Near-Prime,K. Brar,3000,1922.41,Current,0,1,No,0.0
+ACC-10600,2025-12,Atlantic,Credit Card,Subprime,A. Chen,3000,2034.67,1-30 DPD,19,1,No,0.0
+ACC-10601,2026-05,Quebec,Personal Loan,Prime,K. Brar,15000,6700.23,Current,0,0,No,0.0
+ACC-10602,2026-08,Alberta,Personal Loan,Near-Prime,K. Brar,20000,16017.17,1-30 DPD,13,1,No,7276.71
+ACC-10603,2026-06,Alberta,Auto Loan,Near-Prime,R. Osei,8000,3104.15,31-60 DPD,59,1,No,0.0
+ACC-10604,2025-09,Ontario,Auto Loan,Near-Prime,A. Chen,5000,3973.27,Current,0,0,No,0.0
+ACC-10605,2025-09,Ontario,Personal Loan,Subprime,K. Brar,5000,2097.39,Current,0,0,No,0.0
+ACC-10606,2026-03,Ontario,Auto Loan,Near-Prime,J. Tremblay,3000,1996.12,Current,0,0,No,0.0
+ACC-10607,2026-04,Ontario,Line of Credit,Subprime,K. Brar,25000,13520.49,Current,0,0,No,0.0
+ACC-10608,2025-09,Alberta,Line of Credit,Near-Prime,L. Fontaine,3000,995.84,Current,0,0,No,0.0
+ACC-10609,2025-11,Alberta,Auto Loan,Subprime,R. Osei,8000,3011.01,Current,0,0,No,0.0
+ACC-10610,2026-07,Atlantic,Credit Card,Subprime,A. Chen,12000,3484.15,31-60 DPD,40,5,No,1293.64
+ACC-10611,2026-02,Ontario,Auto Loan,Prime,M. Singh,5000,3076.49,Current,0,0,No,0.0
+ACC-10612,2025-10,Alberta,Personal Loan,Prime,J. Tremblay,3000,1703.43,Current,0,0,No,0.0
+ACC-10613,2026-03,British Columbia,Auto Loan,Near-Prime,M. Singh,3000,1693.8,Current,0,0,No,0.0
+ACC-10614,2025-12,Ontario,Credit Card,Prime,L. Fontaine,20000,8464.22,Current,0,1,No,0.0
+ACC-10615,2025-10,Ontario,Auto Loan,Prime,A. Chen,5000,1986.78,Current,0,0,No,0.0
+ACC-10616,2026-03,British Columbia,Auto Loan,Near-Prime,A. Chen,15000,5210.24,Current,0,1,No,0.0
+ACC-10617,2026-08,Alberta,Personal Loan,Prime,L. Fontaine,20000,17163.68,Current,0,0,No,0.0
+ACC-10618,2025-11,Ontario,Auto Loan,Prime,L. Fontaine,12000,7632.65,Current,0,0,No,0.0
+ACC-10619,2026-07,Ontario,Personal Loan,Prime,K. Brar,8000,4559.36,Current,0,0,No,0.0
+ACC-10620,2026-06,Ontario,Auto Loan,Near-Prime,M. Singh,12000,5975.28,Current,0,0,No,0.0
+ACC-10621,2026-05,Ontario,Personal Loan,Subprime,L. Fontaine,8000,3671.61,Current,0,0,No,0.0
+ACC-10622,2026-03,Ontario,Auto Loan,Prime,L. Fontaine,5000,1790.35,Current,0,0,No,0.0
+ACC-10623,2026-02,Ontario,Personal Loan,Subprime,A. Chen,20000,15012.17,31-60 DPD,56,0,No,0.0
+ACC-10624,2025-12,Quebec,Personal Loan,Prime,R. Osei,20000,15214.39,Current,0,0,No,0.0
+ACC-10625,2025-11,Alberta,Auto Loan,Subprime,A. Chen,15000,12263.16,31-60 DPD,31,4,No,0.0
+ACC-10626,2026-05,Ontario,Line of Credit,Near-Prime,R. Osei,15000,7234.44,Current,0,0,No,0.0
+ACC-10627,2025-12,Ontario,Personal Loan,Near-Prime,A. Chen,8000,6982.75,Current,0,0,No,0.0
+ACC-10628,2025-11,Ontario,Line of Credit,Near-Prime,L. Fontaine,3000,2336.75,Current,0,0,No,0.0
+ACC-10629,2025-12,Atlantic,Personal Loan,Near-Prime,M. Singh,8000,4480.15,Current,0,1,No,0.0
+ACC-10630,2025-09,Alberta,Auto Loan,Prime,K. Brar,5000,2344.33,Current,0,0,No,0.0
+ACC-10631,2026-07,Atlantic,Personal Loan,Prime,A. Chen,8000,4299.19,Current,0,0,No,0.0
+ACC-10632,2026-07,Alberta,Credit Card,Prime,A. Chen,8000,2918.77,Current,0,0,No,0.0
+ACC-10633,2026-02,British Columbia,Credit Card,Prime,M. Singh,3000,1612.67,31-60 DPD,52,5,No,1247.02
+ACC-10634,2026-01,Atlantic,Personal Loan,Subprime,K. Brar,5000,2691.57,Current,0,0,No,0.0
+ACC-10635,2025-10,Ontario,Line of Credit,Near-Prime,K. Brar,12000,10693.66,Current,0,0,No,0.0
+ACC-10636,2026-03,Ontario,Auto Loan,Subprime,K. Brar,8000,2200.58,61-90 DPD,77,6,No,0.0
+ACC-10637,2026-05,Ontario,Personal Loan,Prime,K. Brar,5000,3564.93,31-60 DPD,43,2,Yes,0.0
+ACC-10638,2026-03,Quebec,Credit Card,Prime,K. Brar,15000,12830.94,Current,0,0,No,0.0
+ACC-10639,2026-05,Atlantic,Personal Loan,Near-Prime,A. Chen,3000,1632.65,90+ DPD,104,3,No,0.0
+ACC-10640,2026-08,Ontario,Personal Loan,Subprime,J. Tremblay,12000,5401.64,Current,0,1,No,0.0
+ACC-10641,2026-01,Quebec,Auto Loan,Subprime,K. Brar,3000,1236.88,Current,0,0,No,0.0
+ACC-10642,2026-01,Alberta,Credit Card,Prime,L. Fontaine,20000,4553.81,61-90 DPD,71,5,Yes,2727.63
+ACC-10643,2026-02,Atlantic,Auto Loan,Near-Prime,M. Singh,12000,8225.27,Current,0,0,No,0.0
+ACC-10644,2026-07,Ontario,Personal Loan,Prime,A. Chen,15000,7974.62,61-90 DPD,77,2,No,0.0
+ACC-10645,2025-09,Quebec,Credit Card,Near-Prime,L. Fontaine,25000,10217.63,90+ DPD,172,3,No,0.0
+ACC-10646,2026-08,Ontario,Credit Card,Subprime,L. Fontaine,12000,5370.03,61-90 DPD,85,3,No,0.0
+ACC-10647,2026-02,Ontario,Auto Loan,Near-Prime,K. Brar,8000,7323.9,Current,0,0,No,0.0
+ACC-10648,2025-10,Ontario,Personal Loan,Near-Prime,L. Fontaine,20000,7308.8,1-30 DPD,15,4,Yes,6469.18
+ACC-10649,2025-10,British Columbia,Personal Loan,Prime,A. Chen,15000,4705.31,Current,0,0,No,0.0
+ACC-10650,2025-10,Alberta,Personal Loan,Near-Prime,J. Tremblay,5000,2406.35,61-90 DPD,68,3,No,737.77
+ACC-10651,2025-10,Ontario,Credit Card,Subprime,K. Brar,8000,3089.72,1-30 DPD,20,2,Yes,0.0
+ACC-10652,2026-04,British Columbia,Credit Card,Near-Prime,L. Fontaine,5000,2693.29,1-30 DPD,19,2,No,2504.03
+ACC-10653,2026-03,Atlantic,Auto Loan,Near-Prime,J. Tremblay,8000,4418.11,Current,0,0,No,0.0
+ACC-10654,2026-01,Atlantic,Auto Loan,Subprime,J. Tremblay,3000,1769.09,1-30 DPD,1,4,Yes,0.0
+ACC-10655,2025-12,British Columbia,Credit Card,Prime,M. Singh,3000,1782.01,Current,0,0,No,0.0
+ACC-10656,2025-09,Ontario,Auto Loan,Prime,K. Brar,3000,2613.95,1-30 DPD,14,2,No,1232.01
+ACC-10657,2025-12,Ontario,Credit Card,Prime,R. Osei,8000,1968.65,1-30 DPD,15,3,Yes,1802.54
+ACC-10658,2025-10,Quebec,Personal Loan,Prime,A. Chen,8000,4796.52,Current,0,0,No,0.0
+ACC-10659,2026-03,Ontario,Auto Loan,Prime,M. Singh,20000,16065.26,Current,0,0,No,0.0
+ACC-10660,2026-04,Quebec,Auto Loan,Near-Prime,M. Singh,20000,12649.38,31-60 DPD,51,4,No,0.0
+ACC-10661,2025-10,Quebec,Auto Loan,Prime,K. Brar,15000,11318.3,Current,0,0,No,0.0
+ACC-10662,2026-07,Ontario,Line of Credit,Prime,L. Fontaine,15000,6742.1,1-30 DPD,27,3,No,3555.07
+ACC-10663,2025-10,Ontario,Auto Loan,Subprime,J. Tremblay,5000,3131.29,Current,0,0,No,0.0
+ACC-10664,2025-11,Quebec,Auto Loan,Subprime,L. Fontaine,15000,7887.81,1-30 DPD,19,4,Yes,0.0
+ACC-10665,2026-04,Quebec,Auto Loan,Subprime,R. Osei,8000,4451.03,61-90 DPD,73,4,No,0.0
+ACC-10666,2026-08,Atlantic,Personal Loan,Subprime,R. Osei,8000,4789.07,61-90 DPD,64,3,No,0.0
+ACC-10667,2026-06,Alberta,Auto Loan,Subprime,A. Chen,12000,10006.89,90+ DPD,168,3,No,7685.12
+ACC-10668,2026-02,Ontario,Credit Card,Subprime,K. Brar,8000,1882.84,1-30 DPD,17,0,Yes,0.0
+ACC-10669,2026-02,Ontario,Personal Loan,Prime,L. Fontaine,8000,2652.53,Current,0,0,No,0.0
+ACC-10670,2026-03,Quebec,Line of Credit,Near-Prime,M. Singh,25000,8665.64,Current,0,0,No,0.0
+ACC-10671,2026-06,Quebec,Credit Card,Near-Prime,A. Chen,12000,10471.83,Current,0,0,No,0.0
+ACC-10672,2026-01,Alberta,Line of Credit,Subprime,A. Chen,20000,10898.94,31-60 DPD,31,2,No,0.0
+ACC-10673,2025-09,British Columbia,Personal Loan,Near-Prime,J. Tremblay,5000,4469.61,Current,0,1,No,0.0
+ACC-10674,2026-07,Alberta,Personal Loan,Subprime,L. Fontaine,8000,2745.31,Current,0,1,No,0.0
+ACC-10675,2026-05,British Columbia,Auto Loan,Near-Prime,A. Chen,5000,2175.49,Current,0,1,No,0.0
+ACC-10676,2026-05,British Columbia,Personal Loan,Prime,J. Tremblay,12000,4038.72,Current,0,0,No,0.0
+ACC-10677,2026-07,Atlantic,Credit Card,Near-Prime,J. Tremblay,5000,2224.31,1-30 DPD,22,2,No,0.0
+ACC-10678,2026-01,British Columbia,Auto Loan,Near-Prime,L. Fontaine,3000,2382.91,Current,0,2,No,0.0
+ACC-10679,2025-10,Alberta,Credit Card,Near-Prime,A. Chen,12000,6511.02,Current,0,0,No,0.0
+ACC-10680,2026-07,Quebec,Personal Loan,Near-Prime,R. Osei,12000,5927.03,Current,0,0,No,0.0
+ACC-10681,2026-02,Ontario,Auto Loan,Prime,K. Brar,12000,11299.38,Current,0,0,No,0.0
+ACC-10682,2026-03,British Columbia,Auto Loan,Prime,A. Chen,20000,6321.06,Current,0,1,No,0.0
+ACC-10683,2026-07,Ontario,Personal Loan,Prime,R. Osei,3000,1027.92,Current,0,0,No,0.0
+ACC-10684,2025-11,Quebec,Auto Loan,Near-Prime,K. Brar,12000,3151.97,1-30 DPD,17,3,No,0.0
+ACC-10685,2025-12,Ontario,Personal Loan,Near-Prime,M. Singh,12000,6843.04,Current,0,0,No,0.0
+ACC-10686,2026-03,Ontario,Personal Loan,Subprime,R. Osei,3000,1797.2,Current,0,0,No,0.0
+ACC-10687,2026-05,Ontario,Personal Loan,Subprime,R. Osei,8000,3062.52,Current,0,0,No,0.0
+ACC-10688,2026-03,Ontario,Personal Loan,Subprime,R. Osei,25000,19587.55,1-30 DPD,21,4,No,9862.44
+ACC-10689,2026-05,Atlantic,Auto Loan,Near-Prime,L. Fontaine,8000,7087.52,Current,0,0,No,0.0
+ACC-10690,2026-01,Alberta,Credit Card,Prime,R. Osei,12000,10392.22,Current,0,0,No,0.0
+ACC-10691,2025-11,Ontario,Auto Loan,Near-Prime,M. Singh,3000,1005.71,Current,0,0,No,0.0
+ACC-10692,2026-01,Ontario,Credit Card,Near-Prime,K. Brar,12000,3318.59,90+ DPD,161,5,No,0.0
+ACC-10693,2026-05,Ontario,Credit Card,Subprime,J. Tremblay,8000,5295.46,Current,0,1,No,0.0
+ACC-10694,2026-03,Ontario,Credit Card,Prime,A. Chen,5000,3872.02,61-90 DPD,78,4,No,0.0
+ACC-10695,2025-10,Quebec,Credit Card,Near-Prime,L. Fontaine,15000,10744.71,Current,0,0,No,0.0
+ACC-10696,2026-01,Ontario,Personal Loan,Subprime,L. Fontaine,8000,6252.3,1-30 DPD,10,6,No,5997.65
+ACC-10697,2026-01,Ontario,Auto Loan,Near-Prime,J. Tremblay,20000,8452.22,Current,0,0,No,0.0
+ACC-10698,2025-09,Quebec,Credit Card,Prime,L. Fontaine,12000,6662.18,Current,0,0,No,0.0
+ACC-10699,2025-12,Alberta,Personal Loan,Near-Prime,J. Tremblay,3000,2278.1,Current,0,0,No,0.0
+ACC-10700,2025-12,Ontario,Personal Loan,Subprime,J. Tremblay,15000,3013.49,1-30 DPD,22,2,No,2445.37
+ACC-10701,2025-10,Ontario,Personal Loan,Subprime,K. Brar,15000,3123.69,61-90 DPD,68,4,No,0.0
+ACC-10702,2026-01,Ontario,Credit Card,Near-Prime,L. Fontaine,15000,13293.68,Current,0,0,No,0.0
+ACC-10703,2026-05,Ontario,Auto Loan,Subprime,J. Tremblay,15000,11094.8,Current,0,0,No,0.0
+ACC-10704,2026-05,British Columbia,Auto Loan,Subprime,L. Fontaine,12000,4478.85,Current,0,0,No,0.0
+ACC-10705,2026-03,Ontario,Auto Loan,Near-Prime,L. Fontaine,25000,5985.83,1-30 DPD,29,0,Yes,3189.75
+ACC-10706,2026-05,Ontario,Personal Loan,Prime,A. Chen,8000,6450.83,Current,0,0,No,0.0
+ACC-10707,2026-01,Alberta,Auto Loan,Prime,R. Osei,15000,9150.67,Current,0,0,No,0.0
+ACC-10708,2026-02,Ontario,Credit Card,Prime,K. Brar,5000,3589.11,Current,0,0,No,0.0
+ACC-10709,2026-04,Alberta,Auto Loan,Prime,K. Brar,5000,3182.3,Current,0,0,No,0.0
+ACC-10710,2025-11,British Columbia,Line of Credit,Subprime,K. Brar,5000,3588.68,31-60 DPD,38,2,No,0.0
+ACC-10711,2025-09,Quebec,Credit Card,Near-Prime,R. Osei,20000,16565.87,31-60 DPD,56,2,No,11468.21
+ACC-10712,2026-05,Alberta,Auto Loan,Near-Prime,L. Fontaine,15000,8075.83,Current,0,0,No,0.0
+ACC-10713,2025-10,Quebec,Personal Loan,Near-Prime,K. Brar,3000,2821.77,Current,0,0,No,0.0
+ACC-10714,2026-02,Atlantic,Personal Loan,Subprime,L. Fontaine,12000,6911.67,Current,0,1,No,0.0
+ACC-10715,2026-02,Quebec,Personal Loan,Prime,A. Chen,15000,9535.33,Current,0,0,No,0.0
+ACC-10716,2026-04,Quebec,Personal Loan,Near-Prime,J. Tremblay,5000,1599.46,1-30 DPD,2,3,Yes,0.0
+ACC-10717,2025-10,Quebec,Personal Loan,Subprime,K. Brar,12000,3079.98,1-30 DPD,15,8,Yes,2773.65
+ACC-10718,2025-11,Atlantic,Personal Loan,Subprime,M. Singh,5000,1107.89,90+ DPD,160,2,No,0.0
+ACC-10719,2026-08,Ontario,Line of Credit,Near-Prime,K. Brar,12000,8507.9,31-60 DPD,57,0,Yes,0.0
+ACC-10720,2026-08,Ontario,Personal Loan,Prime,K. Brar,25000,23599.08,Current,0,0,No,0.0
+ACC-10721,2026-08,Quebec,Credit Card,Prime,M. Singh,5000,2993.38,Current,0,0,No,0.0
+ACC-10722,2025-10,Quebec,Credit Card,Near-Prime,K. Brar,3000,1703.11,Current,0,0,No,0.0
+ACC-10723,2025-12,Quebec,Line of Credit,Near-Prime,R. Osei,5000,2151.52,Current,0,0,No,0.0
+ACC-10724,2025-09,Ontario,Line of Credit,Subprime,A. Chen,5000,2538.28,31-60 DPD,33,1,No,0.0
+ACC-10725,2026-05,Alberta,Auto Loan,Prime,K. Brar,3000,2531.28,Current,0,0,No,0.0
+ACC-10726,2026-03,Ontario,Auto Loan,Subprime,K. Brar,12000,5145.42,Current,0,0,No,0.0
+ACC-10727,2026-05,British Columbia,Auto Loan,Prime,J. Tremblay,5000,4227.43,Current,0,0,No,0.0
+ACC-10728,2025-12,Atlantic,Line of Credit,Prime,M. Singh,20000,11052.22,Current,0,0,No,0.0
+ACC-10729,2025-11,British Columbia,Personal Loan,Near-Prime,J. Tremblay,12000,6673.85,Current,0,0,No,0.0
+ACC-10730,2026-02,Ontario,Personal Loan,Prime,A. Chen,5000,4413.64,Current,0,1,No,0.0
+ACC-10731,2026-08,Ontario,Auto Loan,Prime,A. Chen,5000,2506.07,Current,0,0,No,0.0
+ACC-10732,2025-09,Alberta,Personal Loan,Near-Prime,R. Osei,12000,8350.43,Current,0,1,No,0.0
+ACC-10733,2026-02,Quebec,Credit Card,Near-Prime,L. Fontaine,12000,10935.1,Current,0,0,No,0.0
+ACC-10734,2026-03,Alberta,Line of Credit,Near-Prime,A. Chen,3000,1557.54,Current,0,0,No,0.0
+ACC-10735,2026-04,Ontario,Auto Loan,Subprime,K. Brar,25000,17916.35,Current,0,1,No,0.0
+ACC-10736,2025-11,Ontario,Personal Loan,Subprime,L. Fontaine,25000,22940.93,Current,0,0,No,0.0
+ACC-10737,2026-08,Quebec,Personal Loan,Subprime,R. Osei,15000,12228.25,1-30 DPD,30,1,Yes,8789.84
+ACC-10738,2025-11,Ontario,Personal Loan,Prime,M. Singh,20000,6246.06,Current,0,0,No,0.0
+ACC-10739,2026-02,Alberta,Auto Loan,Near-Prime,A. Chen,15000,6557.32,Current,0,0,No,0.0
+ACC-10740,2026-02,Ontario,Auto Loan,Subprime,M. Singh,5000,1799.49,1-30 DPD,30,2,No,803.77
+ACC-10741,2025-09,Alberta,Personal Loan,Prime,L. Fontaine,5000,1218.57,31-60 DPD,54,3,No,0.0
+ACC-10742,2026-08,Ontario,Auto Loan,Prime,M. Singh,15000,9354.22,Current,0,1,No,0.0
+ACC-10743,2026-04,Ontario,Personal Loan,Prime,L. Fontaine,5000,1693.31,Current,0,0,No,0.0
+ACC-10744,2025-10,Ontario,Credit Card,Prime,A. Chen,15000,12415.92,Current,0,0,No,0.0
+ACC-10745,2026-08,Ontario,Auto Loan,Near-Prime,M. Singh,3000,1590.38,61-90 DPD,63,3,No,0.0
+ACC-10746,2026-05,British Columbia,Credit Card,Prime,R. Osei,5000,4295.24,Current,0,0,No,0.0
+ACC-10747,2026-07,Quebec,Auto Loan,Prime,K. Brar,25000,20829.5,Current,0,0,No,0.0
+ACC-10748,2026-03,Ontario,Personal Loan,Near-Prime,A. Chen,15000,9912.81,Current,0,0,No,0.0
+ACC-10749,2026-05,Quebec,Line of Credit,Prime,A. Chen,5000,4402.13,Current,0,0,No,0.0
+ACC-10750,2026-02,Quebec,Auto Loan,Subprime,L. Fontaine,3000,1349.17,Current,0,0,No,0.0
+ACC-10751,2025-09,Ontario,Auto Loan,Prime,R. Osei,3000,2474.32,Current,0,1,No,0.0
+ACC-10752,2025-10,Atlantic,Line of Credit,Near-Prime,M. Singh,5000,3725.51,Current,0,0,No,0.0
+ACC-10753,2026-03,Alberta,Personal Loan,Prime,L. Fontaine,8000,6699.4,Current,0,0,No,0.0
+ACC-10754,2026-05,Alberta,Line of Credit,Near-Prime,K. Brar,3000,1110.31,Current,0,0,No,0.0
+ACC-10755,2026-01,Alberta,Personal Loan,Near-Prime,M. Singh,15000,12208.38,Current,0,0,No,0.0
+ACC-10756,2026-06,Ontario,Credit Card,Prime,K. Brar,8000,4494.44,Current,0,0,No,0.0
+ACC-10757,2026-05,Quebec,Credit Card,Subprime,L. Fontaine,5000,3684.65,Current,0,0,No,0.0
+ACC-10758,2025-12,Alberta,Personal Loan,Near-Prime,R. Osei,5000,3703.16,Current,0,0,No,0.0
+ACC-10759,2026-03,Quebec,Auto Loan,Near-Prime,A. Chen,8000,6589.66,Current,0,0,No,0.0
+ACC-10760,2026-03,Atlantic,Credit Card,Near-Prime,J. Tremblay,15000,5478.08,90+ DPD,91,2,Yes,0.0
+ACC-10761,2026-04,Ontario,Personal Loan,Subprime,K. Brar,5000,4542.41,Current,0,0,No,0.0
+ACC-10762,2026-06,Ontario,Line of Credit,Prime,A. Chen,12000,6070.14,Current,0,0,No,0.0
+ACC-10763,2025-09,Ontario,Auto Loan,Prime,R. Osei,12000,8876.72,1-30 DPD,5,9,No,6942.05
+ACC-10764,2025-11,British Columbia,Line of Credit,Prime,K. Brar,5000,2046.85,Current,0,0,No,0.0
+ACC-10765,2026-01,Atlantic,Credit Card,Prime,R. Osei,8000,4086.1,Current,0,0,No,0.0
+ACC-10766,2025-10,Quebec,Personal Loan,Near-Prime,L. Fontaine,15000,7698.68,Current,0,0,No,0.0
+ACC-10767,2025-11,British Columbia,Auto Loan,Near-Prime,K. Brar,8000,6096.83,61-90 DPD,88,3,Yes,0.0
+ACC-10768,2026-06,Ontario,Personal Loan,Prime,K. Brar,3000,629.29,1-30 DPD,19,4,No,219.47
+ACC-10769,2025-09,Quebec,Credit Card,Prime,R. Osei,3000,1340.24,Current,0,0,No,0.0
+ACC-10770,2026-06,British Columbia,Credit Card,Near-Prime,R. Osei,15000,13179.11,90+ DPD,175,2,No,0.0
+ACC-10771,2026-03,Alberta,Credit Card,Subprime,L. Fontaine,3000,1051.19,31-60 DPD,52,0,No,446.8
+ACC-10772,2026-06,Ontario,Auto Loan,Near-Prime,M. Singh,25000,13930.85,Current,0,0,No,0.0
+ACC-10773,2026-05,Alberta,Credit Card,Prime,J. Tremblay,3000,1301.84,Current,0,0,No,0.0
+ACC-10774,2026-02,Ontario,Credit Card,Subprime,J. Tremblay,12000,9000.79,1-30 DPD,10,6,No,5647.37
+ACC-10775,2026-01,British Columbia,Credit Card,Prime,J. Tremblay,20000,10855.86,1-30 DPD,9,5,No,0.0
+ACC-10776,2026-02,Ontario,Personal Loan,Subprime,K. Brar,8000,2233.36,61-90 DPD,67,3,No,0.0
+ACC-10777,2025-11,Ontario,Personal Loan,Prime,R. Osei,8000,3287.52,Current,0,0,No,0.0
+ACC-10778,2026-05,Alberta,Personal Loan,Near-Prime,J. Tremblay,12000,11058.72,Current,0,2,No,0.0
+ACC-10779,2026-04,Ontario,Personal Loan,Near-Prime,J. Tremblay,12000,10224.89,1-30 DPD,22,3,No,4796.03
+ACC-10780,2026-07,Ontario,Auto Loan,Subprime,R. Osei,25000,8279.31,Current,0,1,No,0.0
+ACC-10781,2026-06,British Columbia,Personal Loan,Near-Prime,K. Brar,8000,3077.77,Current,0,0,No,0.0
+ACC-10782,2026-01,Ontario,Line of Credit,Near-Prime,A. Chen,3000,2581.75,Current,0,1,No,0.0
+ACC-10783,2026-07,Quebec,Personal Loan,Prime,R. Osei,12000,8701.38,Current,0,0,No,0.0
+ACC-10784,2025-09,Ontario,Credit Card,Prime,L. Fontaine,25000,16133.83,31-60 DPD,54,6,No,0.0
+ACC-10785,2026-03,British Columbia,Auto Loan,Prime,L. Fontaine,25000,17434.55,Current,0,1,No,0.0
+ACC-10786,2026-06,Ontario,Personal Loan,Subprime,J. Tremblay,5000,4346.77,61-90 DPD,67,1,No,0.0
+ACC-10787,2026-05,Atlantic,Credit Card,Subprime,J. Tremblay,3000,1253.38,Current,0,1,No,0.0
+ACC-10788,2026-04,Quebec,Line of Credit,Prime,R. Osei,5000,2052.96,Current,0,0,No,0.0
+ACC-10789,2026-07,Quebec,Auto Loan,Near-Prime,L. Fontaine,20000,6005.33,Current,0,0,No,0.0
+ACC-10790,2026-03,Alberta,Personal Loan,Near-Prime,K. Brar,20000,9795.55,1-30 DPD,16,2,No,6292.6
+ACC-10791,2025-12,British Columbia,Personal Loan,Near-Prime,M. Singh,3000,2112.73,Current,0,1,No,0.0
+ACC-10792,2025-12,Ontario,Auto Loan,Prime,K. Brar,8000,4880.77,61-90 DPD,61,7,Yes,0.0
+ACC-10793,2026-06,Alberta,Personal Loan,Prime,L. Fontaine,3000,1030.83,Current,0,0,No,0.0
+ACC-10794,2026-05,British Columbia,Credit Card,Subprime,K. Brar,8000,2043.44,31-60 DPD,37,2,No,0.0
+ACC-10795,2026-07,Ontario,Personal Loan,Prime,L. Fontaine,20000,14571.27,Current,0,0,No,0.0
+ACC-10796,2025-09,Ontario,Personal Loan,Prime,R. Osei,20000,7792.63,Current,0,1,No,0.0
+ACC-10797,2026-07,Quebec,Auto Loan,Near-Prime,J. Tremblay,3000,2708.66,Current,0,0,No,0.0
+ACC-10798,2026-06,Ontario,Auto Loan,Subprime,M. Singh,8000,5449.8,31-60 DPD,52,6,No,5260.51
+ACC-10799,2026-08,Ontario,Personal Loan,Subprime,K. Brar,3000,2351.63,61-90 DPD,80,4,No,0.0
+ACC-10800,2025-11,Alberta,Auto Loan,Subprime,K. Brar,5000,3114.91,31-60 DPD,41,3,No,0.0
+ACC-10801,2026-08,Quebec,Personal Loan,Near-Prime,J. Tremblay,8000,3584.45,Current,0,0,No,0.0
+ACC-10802,2025-10,Ontario,Auto Loan,Prime,J. Tremblay,5000,2839.3,Current,0,0,No,0.0
+ACC-10803,2026-03,Quebec,Auto Loan,Prime,M. Singh,3000,2480.92,Current,0,1,No,0.0
+ACC-10804,2025-11,Quebec,Personal Loan,Prime,M. Singh,12000,3672.08,Current,0,1,No,0.0
+ACC-10805,2026-03,Quebec,Auto Loan,Near-Prime,J. Tremblay,8000,3377.9,Current,0,0,No,0.0
+ACC-10806,2026-06,British Columbia,Personal Loan,Prime,R. Osei,5000,2454.88,31-60 DPD,50,5,No,0.0
+ACC-10807,2026-06,British Columbia,Personal Loan,Prime,K. Brar,15000,11741.53,Current,0,1,No,0.0
+ACC-10808,2025-10,Ontario,Personal Loan,Near-Prime,A. Chen,15000,8288.18,Current,0,1,No,0.0
+ACC-10809,2026-04,Ontario,Personal Loan,Prime,M. Singh,5000,3158.3,Current,0,1,No,0.0
+ACC-10810,2026-08,Quebec,Auto Loan,Near-Prime,R. Osei,3000,1450.2,Current,0,0,No,0.0
+ACC-10811,2025-11,British Columbia,Personal Loan,Prime,A. Chen,3000,1012.61,61-90 DPD,72,2,No,0.0
+ACC-10812,2026-01,Ontario,Auto Loan,Near-Prime,A. Chen,8000,2520.6,1-30 DPD,20,3,Yes,1205.61
+ACC-10813,2026-05,Quebec,Auto Loan,Subprime,L. Fontaine,3000,2404.6,Current,0,0,No,0.0
+ACC-10814,2026-04,Alberta,Auto Loan,Near-Prime,K. Brar,12000,4512.95,Current,0,0,No,0.0
+ACC-10815,2025-12,Ontario,Auto Loan,Near-Prime,A. Chen,8000,2520.36,Current,0,0,No,0.0
+ACC-10816,2026-08,Quebec,Personal Loan,Prime,K. Brar,15000,9883.57,Current,0,1,No,0.0
+ACC-10817,2026-03,Ontario,Auto Loan,Prime,M. Singh,3000,1575.22,Current,0,0,No,0.0
+ACC-10818,2026-03,British Columbia,Credit Card,Near-Prime,J. Tremblay,5000,4726.61,Current,0,0,No,0.0
+ACC-10819,2026-02,Ontario,Line of Credit,Near-Prime,M. Singh,8000,3899.92,31-60 DPD,49,3,No,0.0
+ACC-10820,2026-05,Atlantic,Personal Loan,Near-Prime,J. Tremblay,5000,1910.05,Current,0,0,No,0.0
+ACC-10821,2026-03,Quebec,Line of Credit,Near-Prime,K. Brar,3000,2694.53,Current,0,0,No,0.0
+ACC-10822,2026-07,Atlantic,Auto Loan,Near-Prime,J. Tremblay,3000,2330.78,61-90 DPD,82,5,No,0.0
+ACC-10823,2026-06,Ontario,Personal Loan,Prime,R. Osei,12000,7315.02,1-30 DPD,14,1,No,6344.34
+ACC-10824,2025-10,British Columbia,Credit Card,Prime,J. Tremblay,3000,2555.14,Current,0,0,No,0.0
+ACC-10825,2026-08,Quebec,Auto Loan,Near-Prime,L. Fontaine,20000,17863.59,Current,0,1,No,0.0
+ACC-10826,2026-02,Quebec,Credit Card,Prime,L. Fontaine,12000,2633.94,61-90 DPD,68,2,Yes,0.0
+ACC-10827,2026-07,Atlantic,Credit Card,Near-Prime,K. Brar,12000,8460.51,61-90 DPD,66,1,No,0.0
+ACC-10828,2026-02,Ontario,Personal Loan,Prime,K. Brar,5000,3591.54,Current,0,0,No,0.0
+ACC-10829,2026-05,Alberta,Auto Loan,Subprime,M. Singh,15000,5794.66,90+ DPD,130,5,No,0.0
+ACC-10830,2026-01,British Columbia,Credit Card,Near-Prime,K. Brar,5000,2607.87,Current,0,1,No,0.0
+ACC-10831,2026-01,British Columbia,Credit Card,Near-Prime,K. Brar,12000,5056.89,Current,0,0,No,0.0
+ACC-10832,2025-09,Quebec,Credit Card,Prime,A. Chen,8000,4109.48,Current,0,0,No,0.0
+ACC-10833,2026-06,British Columbia,Auto Loan,Subprime,R. Osei,15000,10370.45,1-30 DPD,28,6,Yes,0.0
+ACC-10834,2025-10,Atlantic,Credit Card,Prime,K. Brar,12000,9254.3,Current,0,0,No,0.0
+ACC-10835,2026-01,British Columbia,Auto Loan,Prime,A. Chen,8000,3890.64,Current,0,0,No,0.0
+ACC-10836,2026-02,Ontario,Personal Loan,Subprime,K. Brar,3000,2036.18,1-30 DPD,23,2,No,1854.55
+ACC-10837,2026-06,Alberta,Auto Loan,Prime,K. Brar,3000,2524.88,Current,0,0,No,0.0
+ACC-10838,2025-09,British Columbia,Personal Loan,Near-Prime,A. Chen,15000,7583.85,Current,0,1,No,0.0
+ACC-10839,2026-06,Quebec,Personal Loan,Near-Prime,M. Singh,8000,6659.36,Current,0,0,No,0.0
+ACC-10840,2026-03,Ontario,Auto Loan,Subprime,A. Chen,8000,3446.1,Current,0,2,No,0.0
+ACC-10841,2026-07,Ontario,Auto Loan,Near-Prime,L. Fontaine,5000,4381.42,Current,0,1,No,0.0
+ACC-10842,2025-09,Quebec,Auto Loan,Subprime,M. Singh,15000,7795.21,Current,0,0,No,0.0
+ACC-10843,2026-02,Ontario,Credit Card,Near-Prime,M. Singh,15000,6978.31,1-30 DPD,21,0,No,5031.28
+ACC-10844,2025-12,Ontario,Auto Loan,Subprime,A. Chen,3000,861.95,31-60 DPD,33,3,No,0.0
+ACC-10845,2025-09,Ontario,Credit Card,Near-Prime,J. Tremblay,8000,7121.55,31-60 DPD,42,8,No,0.0
+ACC-10846,2026-06,Atlantic,Personal Loan,Near-Prime,K. Brar,12000,6390.66,31-60 DPD,56,5,No,4748.61
+ACC-10847,2026-08,Quebec,Personal Loan,Near-Prime,M. Singh,8000,6655.24,Current,0,0,No,0.0
+ACC-10848,2025-10,Ontario,Credit Card,Prime,K. Brar,5000,2167.29,31-60 DPD,49,2,No,0.0
+ACC-10849,2026-07,Ontario,Personal Loan,Prime,L. Fontaine,20000,13817.67,Current,0,0,No,0.0
+ACC-10850,2026-05,Quebec,Line of Credit,Near-Prime,K. Brar,3000,2218.48,Current,0,0,No,0.0
+ACC-10851,2025-12,British Columbia,Credit Card,Subprime,K. Brar,5000,4535.04,Current,0,1,No,0.0
+ACC-10852,2026-06,Ontario,Credit Card,Near-Prime,J. Tremblay,5000,4063.23,31-60 DPD,44,2,No,0.0
+ACC-10853,2025-11,Ontario,Personal Loan,Prime,M. Singh,20000,13754.71,Current,0,0,No,0.0
+ACC-10854,2025-11,Quebec,Personal Loan,Prime,L. Fontaine,3000,1468.2,Current,0,1,No,0.0
+ACC-10855,2025-11,Quebec,Auto Loan,Prime,J. Tremblay,5000,4515.79,Current,0,0,No,0.0
+ACC-10856,2026-07,British Columbia,Auto Loan,Prime,L. Fontaine,12000,6210.94,Current,0,0,No,0.0
+ACC-10857,2026-01,British Columbia,Credit Card,Near-Prime,K. Brar,5000,2499.88,Current,0,0,No,0.0
+ACC-10858,2026-06,British Columbia,Personal Loan,Subprime,J. Tremblay,5000,2049.44,Current,0,1,No,0.0
+ACC-10859,2025-09,Quebec,Auto Loan,Prime,R. Osei,5000,2463.43,Current,0,0,No,0.0
+ACC-10860,2026-03,Ontario,Personal Loan,Subprime,M. Singh,12000,9922.03,Current,0,1,No,0.0
+ACC-10861,2026-05,Ontario,Line of Credit,Subprime,K. Brar,8000,5021.3,61-90 DPD,89,4,No,0.0
+ACC-10862,2025-11,Quebec,Line of Credit,Prime,A. Chen,12000,9046.06,1-30 DPD,4,2,No,7561.81
+ACC-10863,2026-07,Alberta,Auto Loan,Prime,J. Tremblay,5000,4438.62,Current,0,0,No,0.0
+ACC-10864,2026-07,Quebec,Credit Card,Prime,R. Osei,8000,4189.23,31-60 DPD,48,3,No,0.0
+ACC-10865,2026-01,Ontario,Line of Credit,Near-Prime,R. Osei,15000,6261.31,1-30 DPD,6,5,No,0.0
+ACC-10866,2026-03,Alberta,Credit Card,Prime,R. Osei,3000,1052.57,Current,0,1,No,0.0
+ACC-10867,2026-05,Ontario,Line of Credit,Prime,A. Chen,5000,2130.48,Current,0,0,No,0.0
+ACC-10868,2026-08,Quebec,Auto Loan,Near-Prime,L. Fontaine,5000,1279.5,1-30 DPD,15,5,No,543.51
+ACC-10869,2026-06,British Columbia,Credit Card,Subprime,J. Tremblay,20000,6916.56,Current,0,0,No,0.0
+ACC-10870,2026-02,British Columbia,Personal Loan,Subprime,L. Fontaine,5000,2385.08,31-60 DPD,46,2,Yes,736.55
+ACC-10871,2025-12,Ontario,Personal Loan,Near-Prime,L. Fontaine,3000,2482.8,1-30 DPD,29,4,Yes,1815.58
+ACC-10872,2026-06,Atlantic,Personal Loan,Subprime,J. Tremblay,5000,2388.32,Current,0,1,No,0.0
+ACC-10873,2026-08,British Columbia,Line of Credit,Near-Prime,K. Brar,12000,9178.85,Current,0,0,No,0.0
+ACC-10874,2026-05,Ontario,Personal Loan,Prime,L. Fontaine,8000,3100.52,Current,0,0,No,0.0
+ACC-10875,2026-08,Alberta,Line of Credit,Prime,L. Fontaine,3000,2212.75,Current,0,1,No,0.0
+ACC-10876,2025-12,Atlantic,Personal Loan,Near-Prime,M. Singh,3000,1404.43,Current,0,0,No,0.0
+ACC-10877,2026-04,British Columbia,Personal Loan,Near-Prime,K. Brar,8000,3277.25,Current,0,0,No,0.0
+ACC-10878,2026-06,Quebec,Credit Card,Near-Prime,R. Osei,3000,1467.89,Current,0,0,No,0.0
+ACC-10879,2026-01,Alberta,Line of Credit,Near-Prime,A. Chen,3000,1877.63,Current,0,0,No,0.0
+ACC-10880,2026-02,Ontario,Personal Loan,Near-Prime,R. Osei,12000,11056.95,Current,0,0,No,0.0
+ACC-10881,2026-02,Quebec,Credit Card,Near-Prime,L. Fontaine,20000,6330.47,Current,0,0,No,0.0
+ACC-10882,2025-09,Quebec,Personal Loan,Prime,R. Osei,8000,3382.89,Current,0,0,No,0.0
+ACC-10883,2026-03,British Columbia,Auto Loan,Near-Prime,L. Fontaine,5000,2612.4,1-30 DPD,26,4,Yes,0.0
+ACC-10884,2026-05,Alberta,Auto Loan,Near-Prime,R. Osei,12000,8226.62,Current,0,0,No,0.0
+ACC-10885,2026-01,Ontario,Auto Loan,Prime,J. Tremblay,5000,1608.67,Current,0,0,No,0.0
+ACC-10886,2025-10,Atlantic,Personal Loan,Prime,R. Osei,5000,3588.23,Current,0,0,No,0.0
+ACC-10887,2026-08,Quebec,Credit Card,Prime,M. Singh,15000,8196.82,Current,0,0,No,0.0
+ACC-10888,2026-07,British Columbia,Line of Credit,Near-Prime,A. Chen,15000,6512.84,Current,0,0,No,0.0
+ACC-10889,2026-01,Ontario,Credit Card,Prime,A. Chen,5000,2595.96,Current,0,0,No,0.0
+ACC-10890,2026-02,Ontario,Auto Loan,Near-Prime,J. Tremblay,5000,1447.47,31-60 DPD,32,3,No,0.0
+ACC-10891,2026-02,Ontario,Auto Loan,Subprime,A. Chen,8000,5799.23,Current,0,1,No,0.0
+ACC-10892,2026-01,Quebec,Personal Loan,Near-Prime,M. Singh,20000,15903.74,1-30 DPD,1,2,Yes,0.0
+ACC-10893,2025-11,Ontario,Auto Loan,Near-Prime,A. Chen,15000,3499.62,31-60 DPD,47,2,Yes,2678.49
+ACC-10894,2025-11,Ontario,Line of Credit,Subprime,K. Brar,12000,3185.13,31-60 DPD,40,2,No,0.0
+ACC-10895,2026-06,Ontario,Auto Loan,Prime,A. Chen,5000,4495.82,Current,0,0,No,0.0
+ACC-10896,2026-06,Alberta,Line of Credit,Near-Prime,R. Osei,15000,6207.16,1-30 DPD,24,1,No,4930.74
+ACC-10897,2025-12,Quebec,Credit Card,Near-Prime,K. Brar,12000,10994.82,Current,0,0,No,0.0
+ACC-10898,2025-12,Quebec,Auto Loan,Prime,K. Brar,3000,2776.58,Current,0,0,No,0.0
+ACC-10899,2025-11,Ontario,Personal Loan,Subprime,A. Chen,15000,12753.87,Current,0,0,No,0.0
+ACC-10900,2025-09,Quebec,Personal Loan,Near-Prime,J. Tremblay,3000,1887.42,Current,0,0,No,0.0
+ACC-10901,2026-04,Alberta,Auto Loan,Subprime,L. Fontaine,20000,13067.38,1-30 DPD,9,2,Yes,10633.28
+ACC-10902,2026-01,British Columbia,Credit Card,Near-Prime,K. Brar,8000,3247.17,Current,0,0,No,0.0
+ACC-10903,2026-08,Quebec,Auto Loan,Prime,J. Tremblay,8000,6761.26,Current,0,0,No,0.0
+ACC-10904,2026-04,British Columbia,Auto Loan,Near-Prime,A. Chen,5000,2986.75,Current,0,0,No,0.0
+ACC-10905,2026-05,Alberta,Credit Card,Near-Prime,L. Fontaine,12000,5268.66,1-30 DPD,4,4,No,3941.07
+ACC-10906,2026-04,Ontario,Credit Card,Near-Prime,A. Chen,15000,5804.26,61-90 DPD,80,4,No,0.0
+ACC-10907,2025-09,Quebec,Personal Loan,Near-Prime,J. Tremblay,8000,6852.17,1-30 DPD,20,2,Yes,4464.13
+ACC-10908,2025-12,Ontario,Auto Loan,Near-Prime,M. Singh,3000,2705.22,Current,0,0,No,0.0
+ACC-10909,2025-10,Ontario,Line of Credit,Subprime,L. Fontaine,15000,6200.54,31-60 DPD,40,2,Yes,4730.81
+ACC-10910,2025-11,Ontario,Personal Loan,Near-Prime,K. Brar,12000,5742.56,Current,0,0,No,0.0
+ACC-10911,2025-12,British Columbia,Line of Credit,Near-Prime,L. Fontaine,5000,3698.98,31-60 DPD,55,3,Yes,0.0
+ACC-10912,2025-11,Ontario,Line of Credit,Subprime,A. Chen,15000,10457.56,31-60 DPD,40,1,No,0.0
+ACC-10913,2026-03,Quebec,Auto Loan,Prime,A. Chen,25000,22930.78,Current,0,1,No,0.0
+ACC-10914,2026-05,Ontario,Personal Loan,Near-Prime,K. Brar,15000,14038.67,Current,0,0,No,0.0
+ACC-10915,2026-06,British Columbia,Auto Loan,Subprime,K. Brar,5000,3096.85,1-30 DPD,22,1,No,2491.31
+ACC-10916,2026-06,Quebec,Auto Loan,Prime,L. Fontaine,20000,8345.04,Current,0,0,No,0.0
+ACC-10917,2025-12,Ontario,Personal Loan,Near-Prime,M. Singh,15000,11498.17,Current,0,0,No,0.0
+ACC-10918,2026-08,Alberta,Personal Loan,Near-Prime,J. Tremblay,8000,7170.21,Current,0,0,No,0.0
+ACC-10919,2025-09,Alberta,Personal Loan,Prime,L. Fontaine,3000,2370.75,Current,0,0,No,0.0
+ACC-10920,2025-10,Ontario,Personal Loan,Prime,J. Tremblay,5000,3265.47,Current,0,0,No,0.0
+ACC-10921,2025-09,Quebec,Credit Card,Near-Prime,R. Osei,3000,816.39,90+ DPD,123,2,No,0.0
+ACC-10922,2026-04,Quebec,Credit Card,Prime,K. Brar,12000,4529.41,1-30 DPD,20,2,No,2983.52
+ACC-10923,2026-06,Ontario,Personal Loan,Prime,J. Tremblay,8000,5867.91,Current,0,0,No,0.0
+ACC-10924,2026-08,Quebec,Auto Loan,Prime,L. Fontaine,20000,15301.58,Current,0,0,No,0.0
+ACC-10925,2026-03,British Columbia,Personal Loan,Subprime,R. Osei,12000,6476.9,61-90 DPD,62,6,No,0.0
+ACC-10926,2026-03,Quebec,Auto Loan,Prime,L. Fontaine,12000,6136.04,Current,0,0,No,0.0
+ACC-10927,2026-05,Alberta,Personal Loan,Near-Prime,A. Chen,3000,1323.42,Current,0,0,No,0.0
+ACC-10928,2026-05,Ontario,Personal Loan,Subprime,L. Fontaine,15000,10974.61,1-30 DPD,4,5,Yes,5137.09
+ACC-10929,2026-05,Ontario,Personal Loan,Near-Prime,J. Tremblay,3000,2029.79,Current,0,0,No,0.0
+ACC-10930,2025-09,Ontario,Auto Loan,Subprime,R. Osei,20000,8081.24,1-30 DPD,5,3,No,5581.66
+ACC-10931,2026-05,Quebec,Personal Loan,Near-Prime,R. Osei,3000,1578.12,31-60 DPD,35,2,No,1380.6
+ACC-10932,2026-02,Quebec,Credit Card,Near-Prime,K. Brar,12000,9910.06,61-90 DPD,63,6,No,0.0
+ACC-10933,2026-04,Ontario,Line of Credit,Prime,M. Singh,3000,962.52,Current,0,0,No,0.0
+ACC-10934,2026-03,British Columbia,Auto Loan,Near-Prime,R. Osei,3000,1625.39,Current,0,1,No,0.0
+ACC-10935,2025-10,Ontario,Credit Card,Prime,A. Chen,5000,2427.98,31-60 DPD,43,2,No,0.0
+ACC-10936,2026-07,British Columbia,Auto Loan,Near-Prime,K. Brar,3000,1392.51,Current,0,0,No,0.0
+ACC-10937,2025-09,British Columbia,Line of Credit,Prime,K. Brar,15000,10774.36,Current,0,0,No,0.0
+ACC-10938,2026-08,Alberta,Personal Loan,Near-Prime,M. Singh,15000,6457.48,Current,0,0,No,0.0
+ACC-10939,2025-12,Quebec,Personal Loan,Prime,J. Tremblay,3000,1027.14,Current,0,0,No,0.0
+ACC-10940,2026-08,Ontario,Line of Credit,Near-Prime,K. Brar,8000,3791.72,61-90 DPD,80,4,No,0.0
+ACC-10941,2026-03,Ontario,Personal Loan,Near-Prime,A. Chen,3000,2522.5,31-60 DPD,52,2,No,0.0
+ACC-10942,2025-11,Quebec,Personal Loan,Near-Prime,A. Chen,8000,6365.79,Current,0,0,No,0.0
+ACC-10943,2025-09,British Columbia,Credit Card,Near-Prime,R. Osei,8000,5728.25,Current,0,0,No,0.0
+ACC-10944,2025-09,Alberta,Line of Credit,Near-Prime,A. Chen,3000,2632.85,Current,0,0,No,0.0
+ACC-10945,2025-10,Atlantic,Credit Card,Prime,K. Brar,12000,4942.38,Current,0,0,No,0.0
+ACC-10946,2026-04,Ontario,Personal Loan,Near-Prime,A. Chen,15000,9425.96,Current,0,1,No,0.0
+ACC-10947,2026-01,Alberta,Line of Credit,Near-Prime,L. Fontaine,15000,11377.46,Current,0,0,No,0.0
+ACC-10948,2025-10,Ontario,Personal Loan,Prime,K. Brar,5000,4068.82,Current,0,0,No,0.0
+ACC-10949,2025-11,Ontario,Auto Loan,Near-Prime,K. Brar,12000,5315.2,31-60 DPD,49,1,Yes,0.0
+ACC-10950,2025-12,Quebec,Auto Loan,Subprime,R. Osei,5000,1069.66,1-30 DPD,9,2,Yes,1021.15
+ACC-10951,2026-03,Quebec,Auto Loan,Prime,R. Osei,5000,3818.74,Current,0,1,No,0.0
+ACC-10952,2026-08,Atlantic,Line of Credit,Near-Prime,M. Singh,5000,4032.06,Current,0,0,No,0.0
+ACC-10953,2025-09,Quebec,Personal Loan,Subprime,R. Osei,12000,5547.74,31-60 DPD,56,3,Yes,0.0
+ACC-10954,2026-08,Quebec,Personal Loan,Subprime,R. Osei,12000,10003.1,Current,0,1,No,0.0
+ACC-10955,2026-02,Ontario,Personal Loan,Prime,R. Osei,15000,11456.25,Current,0,0,No,0.0
+ACC-10956,2026-05,Ontario,Personal Loan,Subprime,K. Brar,5000,3482.45,1-30 DPD,21,3,Yes,2392.41
+ACC-10957,2025-09,Atlantic,Personal Loan,Prime,M. Singh,25000,15484.42,Current,0,1,No,0.0
+ACC-10958,2026-05,Quebec,Personal Loan,Prime,M. Singh,3000,1713.25,Current,0,0,No,0.0
+ACC-10959,2025-12,Alberta,Personal Loan,Near-Prime,L. Fontaine,25000,8975.12,31-60 DPD,54,0,No,0.0
+ACC-10960,2025-11,Ontario,Personal Loan,Near-Prime,L. Fontaine,15000,10864.41,Current,0,1,No,0.0
+ACC-10961,2025-09,British Columbia,Credit Card,Subprime,R. Osei,25000,14781.22,Current,0,0,No,0.0
+ACC-10962,2026-05,Ontario,Credit Card,Subprime,K. Brar,8000,3082.32,Current,0,0,No,0.0
+ACC-10963,2025-09,British Columbia,Personal Loan,Subprime,J. Tremblay,15000,12051.88,31-60 DPD,52,2,No,0.0
+ACC-10964,2026-08,Alberta,Line of Credit,Near-Prime,A. Chen,15000,11768.66,Current,0,0,No,0.0
+ACC-10965,2025-11,British Columbia,Auto Loan,Near-Prime,A. Chen,25000,23310.88,Current,0,0,No,0.0
+ACC-10966,2026-03,Ontario,Credit Card,Subprime,M. Singh,5000,2033.41,1-30 DPD,20,2,No,1524.91
+ACC-10967,2026-02,Ontario,Auto Loan,Subprime,M. Singh,5000,3926.86,Current,0,1,No,0.0
+ACC-10968,2026-02,Ontario,Line of Credit,Subprime,A. Chen,12000,5839.79,Current,0,0,No,0.0
+ACC-10969,2025-10,Quebec,Auto Loan,Subprime,M. Singh,15000,7085.27,Current,0,0,No,0.0
+ACC-10970,2025-11,Quebec,Line of Credit,Near-Prime,A. Chen,3000,1564.23,90+ DPD,164,3,No,0.0
+ACC-10971,2026-04,Quebec,Line of Credit,Subprime,L. Fontaine,12000,9828.27,Current,0,0,No,0.0
+ACC-10972,2026-07,Quebec,Line of Credit,Near-Prime,A. Chen,3000,1623.22,1-30 DPD,19,3,No,543.15
+ACC-10973,2025-11,Ontario,Line of Credit,Prime,M. Singh,8000,3624.45,Current,0,0,No,0.0
+ACC-10974,2026-07,Quebec,Personal Loan,Prime,M. Singh,12000,5278.72,Current,0,0,No,0.0
+ACC-10975,2026-03,Quebec,Personal Loan,Near-Prime,A. Chen,8000,2749.43,Current,0,0,No,0.0
+ACC-10976,2025-09,Alberta,Personal Loan,Near-Prime,K. Brar,8000,5300.57,Current,0,1,No,0.0
+ACC-10977,2025-10,Atlantic,Credit Card,Near-Prime,R. Osei,20000,16489.57,31-60 DPD,57,0,No,0.0
+ACC-10978,2025-11,Atlantic,Personal Loan,Prime,L. Fontaine,8000,2185.5,31-60 DPD,58,7,No,1321.73
+ACC-10979,2025-10,Quebec,Credit Card,Prime,J. Tremblay,8000,5363.91,Current,0,0,No,0.0
+ACC-10980,2025-12,Ontario,Personal Loan,Subprime,L. Fontaine,8000,4905.67,31-60 DPD,52,5,No,0.0
+ACC-10981,2025-10,Ontario,Credit Card,Subprime,A. Chen,8000,2501.86,31-60 DPD,40,3,No,0.0
+ACC-10982,2025-12,British Columbia,Auto Loan,Near-Prime,K. Brar,15000,5052.87,Current,0,0,No,0.0
+ACC-10983,2025-10,Ontario,Line of Credit,Near-Prime,A. Chen,20000,18517.21,Current,0,0,No,0.0
+ACC-10984,2026-07,Ontario,Credit Card,Prime,R. Osei,3000,2436.02,1-30 DPD,28,1,No,1226.59
+ACC-10985,2026-02,Alberta,Line of Credit,Near-Prime,M. Singh,5000,3205.24,Current,0,0,No,0.0
+ACC-10986,2026-05,British Columbia,Personal Loan,Subprime,K. Brar,12000,8822.8,61-90 DPD,69,3,No,0.0
+ACC-10987,2026-01,Ontario,Credit Card,Subprime,J. Tremblay,15000,11866.48,1-30 DPD,10,4,No,8251.63
+ACC-10988,2026-03,Ontario,Line of Credit,Near-Prime,M. Singh,15000,6891.58,Current,0,0,No,0.0
+ACC-10989,2026-03,Ontario,Line of Credit,Prime,R. Osei,15000,12025.1,Current,0,1,No,0.0
+ACC-10990,2026-04,Ontario,Personal Loan,Near-Prime,A. Chen,3000,1414.18,31-60 DPD,52,4,No,646.63
+ACC-10991,2025-12,Alberta,Personal Loan,Prime,J. Tremblay,15000,8819.99,Current,0,0,No,0.0
+ACC-10992,2025-11,Atlantic,Personal Loan,Prime,K. Brar,15000,5632.76,Current,0,0,No,0.0
+ACC-10993,2026-05,Ontario,Line of Credit,Prime,M. Singh,20000,6145.01,Current,0,0,No,0.0
+ACC-10994,2026-04,British Columbia,Personal Loan,Prime,K. Brar,25000,13552.62,Current,0,0,No,0.0
+ACC-10995,2026-03,Ontario,Credit Card,Near-Prime,A. Chen,3000,1612.4,1-30 DPD,19,3,Yes,0.0
+ACC-10996,2026-05,British Columbia,Personal Loan,Subprime,R. Osei,3000,1873.01,1-30 DPD,10,3,Yes,1545.92
+ACC-10997,2025-09,British Columbia,Personal Loan,Near-Prime,K. Brar,25000,7057.99,31-60 DPD,31,5,Yes,0.0
+ACC-10998,2025-10,British Columbia,Credit Card,Prime,J. Tremblay,15000,13440.54,Current,0,0,No,0.0
+ACC-10999,2026-06,British Columbia,Personal Loan,Subprime,L. Fontaine,5000,4056.62,Current,0,0,No,0.0
+ACC-11000,2026-02,Alberta,Personal Loan,Near-Prime,K. Brar,5000,3981.85,Current,0,0,No,0.0
+ACC-11001,2025-10,Ontario,Credit Card,Subprime,R. Osei,20000,8157.93,Current,0,0,No,0.0
+ACC-11002,2026-02,Quebec,Credit Card,Prime,R. Osei,15000,13751.42,Current,0,0,No,0.0
+ACC-11003,2025-11,Ontario,Credit Card,Prime,J. Tremblay,12000,7903.45,1-30 DPD,16,2,Yes,7733.27
+ACC-11004,2026-03,Ontario,Line of Credit,Subprime,M. Singh,8000,1815.18,31-60 DPD,50,4,No,1404.77
+ACC-11005,2026-04,Atlantic,Credit Card,Near-Prime,K. Brar,8000,3892.97,Current,0,0,No,0.0
+ACC-11006,2025-09,British Columbia,Auto Loan,Subprime,R. Osei,12000,8848.76,Current,0,0,No,0.0
+ACC-11007,2025-10,Alberta,Personal Loan,Near-Prime,M. Singh,15000,10566.13,Current,0,0,No,0.0
+ACC-11008,2025-11,Ontario,Line of Credit,Subprime,K. Brar,5000,4529.53,Current,0,0,No,0.0
+ACC-11009,2025-11,Ontario,Auto Loan,Near-Prime,J. Tremblay,8000,3619.13,Current,0,0,No,0.0
+ACC-11010,2026-08,Ontario,Personal Loan,Near-Prime,M. Singh,15000,5145.15,Current,0,0,No,0.0
+ACC-11011,2025-12,Ontario,Auto Loan,Subprime,A. Chen,8000,5226.48,31-60 DPD,42,2,No,0.0
+ACC-11012,2026-03,Ontario,Personal Loan,Prime,R. Osei,3000,2153.88,Current,0,0,No,0.0
+ACC-11013,2025-10,Atlantic,Credit Card,Near-Prime,J. Tremblay,8000,2888.48,31-60 DPD,36,1,No,2048.61
+ACC-11014,2026-06,Atlantic,Personal Loan,Prime,L. Fontaine,5000,2552.25,Current,0,3,No,0.0
+ACC-11015,2026-08,Ontario,Line of Credit,Prime,R. Osei,25000,10541.22,Current,0,0,No,0.0
+ACC-11016,2025-12,Atlantic,Line of Credit,Near-Prime,K. Brar,15000,8349.18,Current,0,1,No,0.0
+ACC-11017,2026-08,Atlantic,Auto Loan,Prime,M. Singh,20000,11079.33,Current,0,1,No,0.0
+ACC-11018,2026-08,British Columbia,Credit Card,Near-Prime,M. Singh,20000,12290.66,1-30 DPD,30,3,No,4057.27
+ACC-11019,2026-05,British Columbia,Credit Card,Prime,R. Osei,12000,8724.72,1-30 DPD,15,6,No,3476.01
+ACC-11020,2025-10,British Columbia,Line of Credit,Near-Prime,R. Osei,8000,4824.78,Current,0,1,No,0.0
+ACC-11021,2025-12,Ontario,Line of Credit,Near-Prime,K. Brar,25000,5594.5,31-60 DPD,51,2,No,0.0
+ACC-11022,2026-08,Ontario,Personal Loan,Subprime,M. Singh,15000,10646.97,Current,0,0,No,0.0
+ACC-11023,2026-04,Ontario,Line of Credit,Subprime,M. Singh,12000,2738.34,31-60 DPD,55,2,No,1077.17
+ACC-11024,2026-04,Alberta,Line of Credit,Near-Prime,M. Singh,8000,6131.76,Current,0,1,No,0.0
+ACC-11025,2026-01,Alberta,Credit Card,Prime,K. Brar,12000,7572.45,Current,0,0,No,0.0
+ACC-11026,2025-12,Ontario,Line of Credit,Near-Prime,R. Osei,25000,16401.94,Current,0,1,No,0.0
+ACC-11027,2026-02,Ontario,Personal Loan,Near-Prime,L. Fontaine,8000,7105.63,Current,0,0,No,0.0
+ACC-11028,2025-11,Quebec,Credit Card,Near-Prime,K. Brar,15000,13840.33,Current,0,0,No,0.0
+ACC-11029,2026-02,Ontario,Personal Loan,Subprime,J. Tremblay,5000,4650.28,Current,0,0,No,0.0
+ACC-11030,2026-07,Ontario,Credit Card,Near-Prime,J. Tremblay,5000,1598.79,Current,0,0,No,0.0
+ACC-11031,2026-01,Quebec,Line of Credit,Subprime,J. Tremblay,8000,7374.08,Current,0,0,No,0.0
+ACC-11032,2025-09,British Columbia,Personal Loan,Subprime,R. Osei,15000,11144.37,31-60 DPD,31,3,No,5761.09
+ACC-11033,2026-01,British Columbia,Line of Credit,Prime,M. Singh,3000,1187.34,Current,0,0,No,0.0
+ACC-11034,2026-08,Ontario,Credit Card,Near-Prime,A. Chen,3000,1367.21,Current,0,0,No,0.0
+ACC-11035,2026-03,Ontario,Credit Card,Near-Prime,M. Singh,12000,10111.43,Current,0,1,No,0.0
+ACC-11036,2026-06,Quebec,Personal Loan,Near-Prime,K. Brar,3000,1311.36,61-90 DPD,83,4,No,0.0
+ACC-11037,2026-04,Ontario,Personal Loan,Near-Prime,J. Tremblay,15000,6816.74,Current,0,0,No,0.0
+ACC-11038,2025-12,Alberta,Credit Card,Prime,M. Singh,12000,4600.19,Current,0,0,No,0.0
+ACC-11039,2026-08,Alberta,Auto Loan,Near-Prime,M. Singh,5000,3470.99,Current,0,1,No,0.0
+ACC-11040,2026-02,Alberta,Credit Card,Subprime,A. Chen,3000,2285.26,Current,0,0,No,0.0
+ACC-11041,2025-10,Ontario,Credit Card,Prime,R. Osei,3000,1760.51,Current,0,0,No,0.0
+ACC-11042,2026-06,Ontario,Credit Card,Prime,L. Fontaine,12000,10953.62,Current,0,0,No,0.0
+ACC-11043,2025-11,Quebec,Credit Card,Subprime,A. Chen,12000,7198.93,Current,0,0,No,0.0
+ACC-11044,2026-08,Quebec,Credit Card,Subprime,L. Fontaine,5000,3706.56,31-60 DPD,43,4,No,0.0
+ACC-11045,2026-07,Alberta,Auto Loan,Near-Prime,L. Fontaine,12000,9297.01,1-30 DPD,19,2,Yes,0.0
+ACC-11046,2026-08,Ontario,Credit Card,Subprime,L. Fontaine,8000,3280.17,1-30 DPD,27,4,Yes,3201.62
+ACC-11047,2026-02,Alberta,Personal Loan,Near-Prime,J. Tremblay,5000,4440.13,Current,0,0,No,0.0
+ACC-11048,2025-09,Ontario,Line of Credit,Near-Prime,K. Brar,3000,1699.82,Current,0,0,No,0.0
+ACC-11049,2026-05,Ontario,Personal Loan,Prime,M. Singh,12000,2970.58,1-30 DPD,14,2,No,0.0
+ACC-11050,2025-09,British Columbia,Credit Card,Subprime,K. Brar,12000,2560.42,1-30 DPD,5,4,Yes,0.0
+ACC-11051,2026-04,British Columbia,Line of Credit,Near-Prime,A. Chen,5000,3418.51,Current,0,1,No,0.0
+ACC-11052,2026-07,Alberta,Auto Loan,Near-Prime,J. Tremblay,15000,9264.73,1-30 DPD,21,4,No,3605.13
+ACC-11053,2026-07,Atlantic,Auto Loan,Near-Prime,M. Singh,15000,6879.92,Current,0,0,No,0.0
+ACC-11054,2026-02,Ontario,Line of Credit,Prime,K. Brar,3000,1746.73,Current,0,0,No,0.0
+ACC-11055,2026-08,Ontario,Personal Loan,Prime,R. Osei,8000,4029.75,Current,0,0,No,0.0
+ACC-11056,2025-12,Ontario,Credit Card,Prime,A. Chen,8000,7500.39,Current,0,0,No,0.0
+ACC-11057,2025-12,Quebec,Auto Loan,Subprime,K. Brar,12000,9317.59,Current,0,0,No,0.0
+ACC-11058,2026-01,Quebec,Line of Credit,Prime,M. Singh,15000,9264.89,Current,0,2,No,0.0
+ACC-11059,2026-04,Alberta,Personal Loan,Near-Prime,L. Fontaine,3000,2191.5,31-60 DPD,33,4,No,0.0
+ACC-11060,2026-08,Ontario,Credit Card,Near-Prime,J. Tremblay,8000,6992.54,90+ DPD,172,6,No,0.0
+ACC-11061,2025-11,Atlantic,Credit Card,Near-Prime,R. Osei,20000,16742.72,Current,0,0,No,0.0
+ACC-11062,2025-12,Ontario,Auto Loan,Prime,J. Tremblay,25000,15134.39,Current,0,0,No,0.0
+ACC-11063,2025-09,Ontario,Auto Loan,Prime,A. Chen,8000,3764.79,Current,0,0,No,0.0
+ACC-11064,2026-08,Alberta,Auto Loan,Subprime,J. Tremblay,5000,4457.98,1-30 DPD,13,3,No,1558.96
+ACC-11065,2026-06,Alberta,Credit Card,Subprime,R. Osei,8000,6073.69,1-30 DPD,18,1,No,0.0
+ACC-11066,2026-08,Ontario,Auto Loan,Subprime,K. Brar,5000,3941.88,61-90 DPD,82,3,Yes,0.0
+ACC-11067,2025-11,Quebec,Line of Credit,Prime,R. Osei,8000,3133.51,Current,0,0,No,0.0
+ACC-11068,2025-10,Alberta,Credit Card,Subprime,K. Brar,8000,3013.68,61-90 DPD,68,4,No,2556.11
+ACC-11069,2026-04,Ontario,Auto Loan,Near-Prime,J. Tremblay,8000,4750.55,Current,0,0,No,0.0
+ACC-11070,2025-11,Ontario,Auto Loan,Near-Prime,J. Tremblay,8000,6898.99,Current,0,0,No,0.0
+ACC-11071,2026-01,British Columbia,Credit Card,Near-Prime,J. Tremblay,12000,5061.84,61-90 DPD,68,3,Yes,1683.3
+ACC-11072,2025-09,Ontario,Credit Card,Near-Prime,K. Brar,15000,7294.93,Current,0,1,No,0.0
+ACC-11073,2026-06,British Columbia,Line of Credit,Near-Prime,J. Tremblay,5000,4407.25,Current,0,0,No,0.0
+ACC-11074,2026-07,British Columbia,Credit Card,Subprime,J. Tremblay,5000,2123.08,31-60 DPD,43,4,Yes,0.0
+ACC-11075,2025-12,Atlantic,Personal Loan,Subprime,A. Chen,20000,5799.06,1-30 DPD,22,4,No,2622.47
+ACC-11076,2026-06,Ontario,Auto Loan,Prime,A. Chen,5000,1731.94,Current,0,1,No,0.0
+ACC-11077,2026-04,Ontario,Auto Loan,Prime,M. Singh,5000,2538.86,Current,0,0,No,0.0
+ACC-11078,2026-04,Quebec,Credit Card,Prime,K. Brar,15000,12309.16,31-60 DPD,41,0,No,0.0
+ACC-11079,2025-10,British Columbia,Personal Loan,Near-Prime,A. Chen,8000,6921.59,31-60 DPD,59,6,No,0.0
+ACC-11080,2026-05,Quebec,Credit Card,Prime,R. Osei,3000,2834.88,Current,0,0,No,0.0
+ACC-11081,2026-05,Ontario,Personal Loan,Near-Prime,R. Osei,12000,10518.5,Current,0,0,No,0.0
+ACC-11082,2026-05,British Columbia,Personal Loan,Prime,R. Osei,8000,4723.96,Current,0,0,No,0.0
+ACC-11083,2025-11,Ontario,Personal Loan,Prime,M. Singh,20000,5847.02,90+ DPD,175,3,No,0.0
+ACC-11084,2025-09,Atlantic,Line of Credit,Subprime,A. Chen,12000,4131.63,31-60 DPD,41,1,Yes,0.0
+ACC-11085,2025-12,Ontario,Personal Loan,Prime,K. Brar,15000,8502.31,Current,0,0,No,0.0
+ACC-11086,2026-01,British Columbia,Personal Loan,Near-Prime,L. Fontaine,3000,2088.02,90+ DPD,109,5,No,0.0
+ACC-11087,2026-03,Atlantic,Credit Card,Subprime,A. Chen,5000,1871.45,Current,0,0,No,0.0
+ACC-11088,2025-10,Alberta,Credit Card,Subprime,A. Chen,12000,4260.09,Current,0,1,No,0.0
+ACC-11089,2025-11,Ontario,Credit Card,Near-Prime,R. Osei,5000,1669.6,Current,0,0,No,0.0
+ACC-11090,2026-04,Ontario,Personal Loan,Prime,M. Singh,5000,2909.47,1-30 DPD,20,6,No,0.0
+ACC-11091,2025-12,Quebec,Auto Loan,Subprime,J. Tremblay,8000,4117.68,1-30 DPD,3,2,No,0.0
+ACC-11092,2025-11,Ontario,Personal Loan,Subprime,L. Fontaine,25000,19126.18,Current,0,0,No,0.0
+ACC-11093,2026-04,Atlantic,Auto Loan,Prime,L. Fontaine,5000,2221.48,Current,0,0,No,0.0
+ACC-11094,2025-12,British Columbia,Auto Loan,Near-Prime,K. Brar,20000,8066.74,1-30 DPD,13,3,No,6944.23
+ACC-11095,2025-10,Alberta,Auto Loan,Near-Prime,M. Singh,20000,7270.14,Current,0,0,No,0.0
+ACC-11096,2025-12,Quebec,Auto Loan,Prime,A. Chen,25000,23260.73,Current,0,2,No,0.0
+ACC-11097,2026-04,Quebec,Line of Credit,Prime,J. Tremblay,12000,9784.72,Current,0,0,No,0.0
+ACC-11098,2026-04,British Columbia,Credit Card,Subprime,M. Singh,15000,5292.47,Current,0,0,No,0.0
+ACC-11099,2026-06,British Columbia,Credit Card,Near-Prime,J. Tremblay,8000,2465.56,61-90 DPD,72,3,Yes,1947.77
+ACC-11100,2025-12,Quebec,Personal Loan,Prime,A. Chen,3000,2156.8,Current,0,0,No,0.0
+ACC-11101,2026-08,Ontario,Auto Loan,Prime,A. Chen,8000,4899.23,Current,0,0,No,0.0
+ACC-11102,2026-08,Alberta,Credit Card,Near-Prime,R. Osei,25000,23056.4,Current,0,1,No,0.0
+ACC-11103,2026-08,Ontario,Personal Loan,Near-Prime,L. Fontaine,20000,17848.58,31-60 DPD,48,5,Yes,17591.46
+ACC-11104,2026-04,Alberta,Personal Loan,Near-Prime,M. Singh,12000,3959.07,31-60 DPD,57,2,Yes,0.0
+ACC-11105,2026-05,Ontario,Personal Loan,Near-Prime,K. Brar,15000,7156.35,Current,0,0,No,0.0
+ACC-11106,2026-01,British Columbia,Line of Credit,Prime,K. Brar,3000,2550.38,Current,0,0,No,0.0
+ACC-11107,2026-07,Atlantic,Auto Loan,Prime,M. Singh,3000,1282.62,Current,0,0,No,0.0
+ACC-11108,2025-10,Quebec,Line of Credit,Prime,A. Chen,8000,4413.21,Current,0,0,No,0.0
+ACC-11109,2026-01,Ontario,Line of Credit,Near-Prime,L. Fontaine,3000,1176.57,Current,0,0,No,0.0
+ACC-11110,2025-11,Quebec,Personal Loan,Subprime,K. Brar,8000,6428.55,Current,0,1,No,0.0
+ACC-11111,2026-02,Ontario,Line of Credit,Prime,K. Brar,8000,1995.76,1-30 DPD,30,4,No,776.64
+ACC-11112,2026-06,Quebec,Credit Card,Prime,K. Brar,25000,8593.45,1-30 DPD,11,5,Yes,0.0
+ACC-11113,2025-11,Quebec,Credit Card,Near-Prime,M. Singh,12000,11070.09,Current,0,0,No,0.0
+ACC-11114,2025-11,Atlantic,Personal Loan,Prime,L. Fontaine,8000,3485.97,Current,0,0,No,0.0
+ACC-11115,2026-07,British Columbia,Auto Loan,Near-Prime,R. Osei,8000,7512.86,Current,0,1,No,0.0
+ACC-11116,2026-03,Ontario,Auto Loan,Near-Prime,L. Fontaine,15000,8442.65,Current,0,0,No,0.0
+ACC-11117,2026-05,Ontario,Auto Loan,Near-Prime,L. Fontaine,15000,4809.94,Current,0,0,No,0.0
+ACC-11118,2026-02,Ontario,Auto Loan,Prime,A. Chen,25000,23064.56,Current,0,0,No,0.0
+ACC-11119,2026-02,Alberta,Personal Loan,Near-Prime,M. Singh,8000,5653.07,Current,0,0,No,0.0
+ACC-11120,2026-01,Ontario,Personal Loan,Prime,K. Brar,3000,1971.04,Current,0,0,No,0.0
+ACC-11121,2026-05,Ontario,Personal Loan,Prime,R. Osei,12000,10619.62,Current,0,0,No,0.0
+ACC-11122,2025-11,Ontario,Personal Loan,Subprime,M. Singh,25000,10198.91,1-30 DPD,30,2,Yes,0.0
+ACC-11123,2026-06,Alberta,Line of Credit,Subprime,K. Brar,5000,2049.05,61-90 DPD,82,3,No,0.0
+ACC-11124,2026-06,Quebec,Auto Loan,Prime,L. Fontaine,12000,10454.25,Current,0,1,No,0.0
+ACC-11125,2026-06,Ontario,Credit Card,Near-Prime,M. Singh,20000,16069.15,Current,0,0,No,0.0
+ACC-11126,2026-02,Quebec,Personal Loan,Near-Prime,A. Chen,15000,9252.54,Current,0,0,No,0.0
+ACC-11127,2025-10,British Columbia,Credit Card,Near-Prime,A. Chen,5000,3198.64,31-60 DPD,48,2,No,0.0
+ACC-11128,2026-04,British Columbia,Auto Loan,Prime,L. Fontaine,3000,1491.75,31-60 DPD,43,5,No,0.0
+ACC-11129,2026-01,Alberta,Line of Credit,Prime,A. Chen,15000,6775.61,Current,0,1,No,0.0
+ACC-11130,2026-06,Ontario,Auto Loan,Prime,K. Brar,5000,1456.59,31-60 DPD,43,2,No,0.0
+ACC-11131,2026-04,Ontario,Personal Loan,Near-Prime,L. Fontaine,12000,7054.39,Current,0,0,No,0.0
+ACC-11132,2026-02,British Columbia,Personal Loan,Prime,A. Chen,5000,3077.07,Current,0,1,No,0.0
+ACC-11133,2026-05,Ontario,Personal Loan,Near-Prime,A. Chen,20000,10193.52,Current,0,0,No,0.0
+ACC-11134,2026-04,Ontario,Credit Card,Prime,L. Fontaine,20000,18167.65,Current,0,0,No,0.0
+ACC-11135,2026-03,British Columbia,Personal Loan,Prime,K. Brar,3000,2791.65,Current,0,0,No,0.0
+ACC-11136,2026-02,British Columbia,Credit Card,Near-Prime,K. Brar,3000,1994.16,Current,0,0,No,0.0
+ACC-11137,2025-12,Alberta,Line of Credit,Near-Prime,K. Brar,5000,1590.11,1-30 DPD,1,3,No,0.0
+ACC-11138,2026-07,Ontario,Personal Loan,Near-Prime,L. Fontaine,15000,13393.61,31-60 DPD,32,2,No,0.0
+ACC-11139,2026-01,Ontario,Personal Loan,Near-Prime,R. Osei,20000,16477.21,1-30 DPD,24,2,No,15833.89
+ACC-11140,2026-05,Ontario,Credit Card,Near-Prime,J. Tremblay,5000,3675.81,Current,0,0,No,0.0
+ACC-11141,2026-01,Alberta,Line of Credit,Near-Prime,L. Fontaine,5000,2111.57,Current,0,0,No,0.0
+ACC-11142,2026-04,Atlantic,Auto Loan,Near-Prime,K. Brar,3000,2515.34,61-90 DPD,83,6,No,1086.23
+ACC-11143,2025-09,Alberta,Personal Loan,Subprime,A. Chen,5000,3276.08,31-60 DPD,54,1,No,3083.78
+ACC-11144,2025-11,Ontario,Auto Loan,Prime,M. Singh,8000,6509.12,Current,0,0,No,0.0
+ACC-11145,2026-04,Alberta,Auto Loan,Prime,J. Tremblay,12000,4755.27,Current,0,1,No,0.0
+ACC-11146,2025-09,British Columbia,Line of Credit,Near-Prime,K. Brar,8000,7264.06,Current,0,2,No,0.0
+ACC-11147,2026-02,British Columbia,Personal Loan,Near-Prime,M. Singh,12000,7123.51,Current,0,0,No,0.0
+ACC-11148,2026-05,Alberta,Line of Credit,Subprime,A. Chen,12000,7318.07,1-30 DPD,29,1,No,4952.43
+ACC-11149,2025-11,British Columbia,Auto Loan,Prime,M. Singh,25000,18638.93,Current,0,0,No,0.0
+ACC-11150,2025-10,Ontario,Auto Loan,Subprime,J. Tremblay,5000,1504.27,Current,0,1,No,0.0
+ACC-11151,2026-07,British Columbia,Auto Loan,Prime,K. Brar,8000,4700.09,Current,0,0,No,0.0
+ACC-11152,2026-05,Quebec,Line of Credit,Near-Prime,M. Singh,3000,2762.03,Current,0,0,No,0.0
+ACC-11153,2025-12,Ontario,Personal Loan,Prime,L. Fontaine,5000,1543.06,1-30 DPD,16,2,No,960.92
+ACC-11154,2025-09,Quebec,Auto Loan,Prime,M. Singh,5000,2880.82,Current,0,0,No,0.0
+ACC-11155,2026-06,Ontario,Credit Card,Near-Prime,L. Fontaine,15000,5832.78,Current,0,0,No,0.0
+ACC-11156,2026-05,Quebec,Credit Card,Subprime,R. Osei,5000,2507.86,1-30 DPD,9,1,Yes,0.0
+ACC-11157,2026-03,Ontario,Personal Loan,Prime,J. Tremblay,15000,12690.08,Current,0,0,No,0.0
+ACC-11158,2026-03,Ontario,Auto Loan,Prime,L. Fontaine,5000,2472.17,Current,0,0,No,0.0
+ACC-11159,2026-01,Alberta,Auto Loan,Prime,R. Osei,15000,8163.65,Current,0,1,No,0.0
+ACC-11160,2026-01,Atlantic,Personal Loan,Near-Prime,R. Osei,8000,5084.97,Current,0,1,No,0.0
+ACC-11161,2025-11,Quebec,Line of Credit,Prime,J. Tremblay,20000,12283.36,1-30 DPD,13,0,Yes,8982.44
+ACC-11162,2025-12,Ontario,Credit Card,Near-Prime,M. Singh,12000,8761.77,Current,0,0,No,0.0
+ACC-11163,2026-02,Ontario,Personal Loan,Subprime,R. Osei,8000,2924.62,Current,0,0,No,0.0
+ACC-11164,2026-01,British Columbia,Credit Card,Near-Prime,J. Tremblay,15000,10958.69,Current,0,0,No,0.0
+ACC-11165,2025-11,Quebec,Credit Card,Prime,A. Chen,15000,6924.89,Current,0,0,No,0.0
+ACC-11166,2025-09,Alberta,Auto Loan,Prime,J. Tremblay,20000,7692.46,Current,0,2,No,0.0
+ACC-11167,2026-04,Ontario,Credit Card,Prime,A. Chen,8000,2925.6,Current,0,1,No,0.0
+ACC-11168,2026-04,British Columbia,Credit Card,Near-Prime,R. Osei,3000,2200.62,Current,0,0,No,0.0
+ACC-11169,2026-03,Quebec,Auto Loan,Near-Prime,M. Singh,12000,7019.75,Current,0,0,No,0.0
+ACC-11170,2026-06,Quebec,Personal Loan,Near-Prime,R. Osei,8000,5157.73,Current,0,0,No,0.0
+ACC-11171,2026-04,Atlantic,Credit Card,Prime,R. Osei,5000,3794.9,Current,0,1,No,0.0
+ACC-11172,2026-05,Alberta,Auto Loan,Near-Prime,A. Chen,15000,4014.05,1-30 DPD,10,0,Yes,2888.13
+ACC-11173,2026-01,Ontario,Auto Loan,Prime,K. Brar,5000,3846.21,Current,0,1,No,0.0
+ACC-11174,2025-09,British Columbia,Auto Loan,Prime,M. Singh,5000,3723.23,Current,0,0,No,0.0
+ACC-11175,2026-04,Ontario,Line of Credit,Prime,M. Singh,8000,7297.75,Current,0,1,No,0.0
+ACC-11176,2026-03,Atlantic,Auto Loan,Near-Prime,J. Tremblay,8000,5806.13,Current,0,0,No,0.0
+ACC-11177,2026-01,Ontario,Credit Card,Near-Prime,A. Chen,5000,1180.82,31-60 DPD,55,4,No,956.67
+ACC-11178,2026-02,Ontario,Personal Loan,Near-Prime,A. Chen,20000,12281.4,1-30 DPD,12,5,No,0.0
+ACC-11179,2025-10,Ontario,Auto Loan,Prime,R. Osei,15000,11742.07,Current,0,0,No,0.0
+ACC-11180,2026-06,Ontario,Credit Card,Near-Prime,L. Fontaine,5000,3603.19,61-90 DPD,89,2,Yes,0.0
+ACC-11181,2026-06,Alberta,Line of Credit,Near-Prime,A. Chen,8000,2821.23,31-60 DPD,32,8,No,905.22
+ACC-11182,2026-03,British Columbia,Auto Loan,Prime,L. Fontaine,5000,2708.66,Current,0,0,No,0.0
+ACC-11183,2025-12,Ontario,Personal Loan,Subprime,K. Brar,12000,5133.28,31-60 DPD,32,2,No,0.0
+ACC-11184,2026-07,Quebec,Credit Card,Prime,A. Chen,5000,3486.74,Current,0,0,No,0.0
+ACC-11185,2026-03,Ontario,Auto Loan,Near-Prime,M. Singh,5000,1971.46,Current,0,0,No,0.0
+ACC-11186,2025-11,British Columbia,Personal Loan,Subprime,K. Brar,8000,3611.69,31-60 DPD,48,2,No,0.0
+ACC-11187,2026-06,Atlantic,Credit Card,Near-Prime,R. Osei,8000,2701.84,Current,0,0,No,0.0
+ACC-11188,2026-02,Ontario,Credit Card,Prime,R. Osei,5000,3938.65,Current,0,0,No,0.0
+ACC-11189,2026-01,Ontario,Auto Loan,Prime,K. Brar,3000,1676.64,1-30 DPD,6,2,No,0.0
+ACC-11190,2026-06,Ontario,Credit Card,Near-Prime,M. Singh,15000,6191.98,Current,0,0,No,0.0
+ACC-11191,2026-07,Ontario,Auto Loan,Near-Prime,R. Osei,5000,2379.85,Current,0,1,No,0.0
+ACC-11192,2025-10,Quebec,Personal Loan,Prime,A. Chen,25000,15493.64,Current,0,1,No,0.0
+ACC-11193,2026-07,Ontario,Auto Loan,Subprime,L. Fontaine,5000,3624.47,Current,0,3,No,0.0
+ACC-11194,2026-03,Ontario,Line of Credit,Near-Prime,K. Brar,15000,5102.49,Current,0,0,No,0.0
+ACC-11195,2026-08,Ontario,Line of Credit,Near-Prime,R. Osei,8000,3974.19,Current,0,0,No,0.0
+ACC-11196,2026-06,Quebec,Line of Credit,Prime,J. Tremblay,25000,19705.04,Current,0,0,No,0.0
+ACC-11197,2026-08,Ontario,Auto Loan,Subprime,M. Singh,5000,2882.88,Current,0,1,No,0.0
+ACC-11198,2026-08,Ontario,Auto Loan,Subprime,L. Fontaine,3000,2653.88,Current,0,1,No,0.0
+ACC-11199,2026-05,British Columbia,Auto Loan,Near-Prime,J. Tremblay,5000,2315.59,31-60 DPD,58,6,No,0.0

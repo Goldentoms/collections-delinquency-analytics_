@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Collections & Delinquency Portfolio Dashboard</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<style>
+  :root{
+    --bg:#F4F4F4;
+    --tile:#FFFFFF;
+    --border:#DCDCDC;
+    --text:#31302C;
+    --muted:#767671;
+    --blue:#4E79A7;
+    --orange:#F28E2B;
+    --red:#E15759;
+    --teal:#76B7B2;
+    --green:#59A14F;
+    --yellow:#EDC948;
+    --purple:#B07AA1;
+    --pink:#FF9DA7;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--bg);
+    font-family:Arial, Helvetica, sans-serif;
+    color:var(--text);
+  }
+  .wrap{
+    max-width:1180px;
+    margin:0 auto;
+    padding:20px 24px 40px;
+  }
+  .topbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    border-bottom:3px solid var(--blue);
+    padding-bottom:12px;
+    margin-bottom:16px;
+    flex-wrap:wrap;
+    gap:12px;
+  }
+  .topbar h1{
+    font-size:22px;
+    margin:0 0 4px;
+    font-weight:700;
+    letter-spacing:0.2px;
+  }
+  .topbar p{
+    margin:0;
+    font-size:12.5px;
+    color:var(--muted);
+  }
+  .filters{
+    display:flex;
+    gap:8px;
+    flex-wrap:wrap;
+  }
+  .filter-chip{
+    background:#fff;
+    border:1px solid var(--border);
+    border-radius:3px;
+    padding:5px 10px;
+    font-size:11.5px;
+    color:var(--text);
+    display:flex;
+    align-items:center;
+    gap:6px;
+  }
+  .filter-chip .dot{
+    width:8px;height:8px;border-radius:50%;
+  }
+  .kpi-row{
+    display:grid;
+    grid-template-columns:repeat(5,1fr);
+    gap:12px;
+    margin-bottom:14px;
+  }
+  .kpi{
+    background:var(--tile);
+    border:1px solid var(--border);
+    border-top:3px solid var(--blue);
+    padding:12px 14px;
+  }
+  .kpi:nth-child(2){border-top-color:var(--orange);}
+  .kpi:nth-child(3){border-top-color:var(--red);}
+  .kpi:nth-child(4){border-top-color:var(--green);}
+  .kpi:nth-child(5){border-top-color:var(--purple);}
+  .kpi .label{
+    font-size:10.5px;
+    text-transform:uppercase;
+    letter-spacing:0.4px;
+    color:var(--muted);
+    margin-bottom:6px;
+  }
+  .kpi .value{
+    font-size:24px;
+    font-weight:700;
+    line-height:1.1;
+  }
+  .kpi .sub{
+    font-size:11px;
+    color:var(--muted);
+    margin-top:4px;
+  }
+  .grid{
+    display:grid;
+    grid-template-columns:1.3fr 1fr;
+    gap:12px;
+    margin-bottom:12px;
+  }
+  .grid2{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr;
+    gap:12px;
+  }
+  .tile{
+    background:var(--tile);
+    border:1px solid var(--border);
+    padding:12px 14px 8px;
+  }
+  .tile h3{
+    font-size:12.5px;
+    margin:0 0 2px;
+    font-weight:700;
+    color:var(--text);
+  }
+  .tile .tile-sub{
+    font-size:10.5px;
+    color:var(--muted);
+    margin-bottom:8px;
+  }
+  .chart-box{
+    position:relative;
+    height:230px;
+  }
+  .chart-box.tall{height:280px;}
+  .legend-row{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+    margin-top:8px;
+    font-size:10.5px;
+    color:var(--muted);
+  }
+  .legend-row span{display:flex;align-items:center;gap:5px;}
+  .legend-row i{width:9px;height:9px;display:inline-block;border-radius:2px;}
+  .footer{
+    margin-top:16px;
+    font-size:10.5px;
+    color:var(--muted);
+    border-top:1px solid var(--border);
+    padding-top:10px;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="topbar">
+    <div>
+      <h1>Collections &amp; Delinquency Portfolio</h1>
+      <p>Synthetic loan portfolio &nbsp;|&nbsp; Sep 2025 &ndash; Aug 2026 &nbsp;|&nbsp; 1,200 accounts &nbsp;|&nbsp; Personal Loan, Auto Loan, Credit Card, Line of Credit</p>
+    </div>
+    <div class="filters">
+      <div class="filter-chip"><span class="dot" style="background:var(--blue)"></span>Region: All</div>
+      <div class="filter-chip"><span class="dot" style="background:var(--orange)"></span>Product: All</div>
+      <div class="filter-chip"><span class="dot" style="background:var(--green)"></span>Period: Sep&#39;25&ndash;Aug&#39;26</div>
+    </div>
+  </div>
+
+  <div class="kpi-row">
+    <div class="kpi">
+      <div class="label">Total Accounts</div>
+      <div class="value">1,200</div>
+      <div class="sub">across 5 regions</div>
+    </div>
+    <div class="kpi">
+      <div class="label">Outstanding Balance</div>
+      <div class="value">$7.18M</div>
+      <div class="sub">all accounts</div>
+    </div>
+    <div class="kpi">
+      <div class="label">Delinquency Rate</div>
+      <div class="value">32.7%</div>
+      <div class="sub">392 delinquent accounts</div>
+    </div>
+    <div class="kpi">
+      <div class="label">Amount Recovered</div>
+      <div class="value">$578.5K</div>
+      <div class="sub">from delinquent accounts</div>
+    </div>
+    <div class="kpi">
+      <div class="label">Avg Days Past Due</div>
+      <div class="value">47.8</div>
+      <div class="sub">delinquent accounts only</div>
+    </div>
+  </div>
+
+  <div class="grid">
+    <div class="tile">
+      <h3>Delinquency Rate Trend</h3>
+      <div class="tile-sub">Monthly delinquency rate, Sep 2025 &ndash; Aug 2026</div>
+      <div class="chart-box"><canvas id="trendChart"></canvas></div>
+    </div>
+    <div class="tile">
+      <h3>Portfolio Mix by DPD Bucket</h3>
+      <div class="tile-sub">Share of accounts</div>
+      <div class="chart-box"><canvas id="bucketPie"></canvas></div>
+    </div>
+  </div>
+
+  <div class="grid2">
+    <div class="tile">
+      <h3>Delinquency Rate by Region</h3>
+      <div class="tile-sub">% of accounts delinquent</div>
+      <div class="chart-box"><canvas id="regionChart"></canvas></div>
+    </div>
+    <div class="tile">
+      <h3>Recovery Rate by DPD Bucket</h3>
+      <div class="tile-sub">% of delinquent accounts recovered</div>
+      <div class="chart-box"><canvas id="recoveryChart"></canvas></div>
+    </div>
+    <div class="tile">
+      <h3>Amount Recovered by Collector</h3>
+      <div class="tile-sub">Total $ recovered, delinquent accounts</div>
+      <div class="chart-box"><canvas id="collectorChart"></canvas></div>
+    </div>
+  </div>
+
+  <div class="footer">
+    Data is synthetic, generated to resemble a realistic collections portfolio for portfolio-project purposes &mdash; no real customer or institutional data was used. Built to demonstrate collections analytics: delinquency tracking, recovery performance, and collector productivity.
+  </div>
+
+</div>
+
+<script>
+Chart.defaults.font.family = "Arial, Helvetica, sans-serif";
+Chart.defaults.color = "#767671";
+Chart.defaults.font.size = 11;
+
+const tableau10 = ['#4E79A7','#F28E2B','#E15759','#76B7B2','#59A14F','#EDC948','#B07AA1','#FF9DA7','#9C755F','#BAB0AC'];
+
+// Trend chart
+new Chart(document.getElementById('trendChart'), {
+  type: 'line',
+  data: {
+    labels: ['Sep\'25','Oct\'25','Nov\'25','Dec\'25','Jan\'26','Feb\'26','Mar\'26','Apr\'26','May\'26','Jun\'26','Jul\'26','Aug\'26'],
+    datasets: [{
+      label: 'Delinquency Rate',
+      data: [34.4,25.7,35.5,37.4,39.8,35.0,29.8,32.1,31.2,34.9,29.3,28.6],
+      borderColor: '#4E79A7',
+      backgroundColor: 'rgba(78,121,167,0.12)',
+      fill: true,
+      tension: 0.3,
+      pointRadius: 3,
+      pointBackgroundColor: '#4E79A7',
+      borderWidth: 2
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      y: { ticks: { callback: v => v + '%' }, grid: { color: '#ECECEC' } },
+      x: { grid: { display: false } }
+    }
+  }
+});
+
+// DPD bucket pie
+new Chart(document.getElementById('bucketPie'), {
+  type: 'doughnut',
+  data: {
+    labels: ['Current','1-30 DPD','31-60 DPD','61-90 DPD','90+ DPD'],
+    datasets: [{
+      data: [808,161,124,68,39],
+      backgroundColor: ['#BAB0AC','#4E79A7','#F28E2B','#E15759','#9C755F'],
+      borderColor: '#fff',
+      borderWidth: 2
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: { legend: { position: 'right', labels: { boxWidth: 10, padding: 10 } } }
+  }
+});
+
+// Region chart
+new Chart(document.getElementById('regionChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Ontario','Quebec','British Columbia','Alberta','Atlantic'],
+    datasets: [{
+      label: 'Delinquency Rate',
+      data: [34.4,30.2,35.0,29.9,30.3],
+      backgroundColor: '#4E79A7',
+      borderRadius: 2,
+      maxBarThickness: 34
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      y: { ticks: { callback: v => v + '%' }, grid: { color: '#ECECEC' } },
+      x: { grid: { display: false } }
+    }
+  }
+});
+
+// Recovery rate by bucket
+new Chart(document.getElementById('recoveryChart'), {
+  type: 'bar',
+  data: {
+    labels: ['1-30 DPD','31-60 DPD','61-90 DPD','90+ DPD'],
+    datasets: [{
+      label: 'Recovery Rate',
+      data: [61.5,31.5,19.1,10.3],
+      backgroundColor: '#59A14F',
+      borderRadius: 2,
+      maxBarThickness: 34
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      y: { ticks: { callback: v => v + '%' }, grid: { color: '#ECECEC' } },
+      x: { grid: { display: false } }
+    }
+  }
+});
+
+// Collector chart
+new Chart(document.getElementById('collectorChart'), {
+  type: 'bar',
+  data: {
+    labels: ['A. Chen','M. Singh','R. Osei','J. Tremblay','K. Brar','L. Fontaine'],
+    datasets: [{
+      label: 'Amount Recovered',
+      data: [58642,63999,103192,124465,97618,130617],
+      backgroundColor: '#F28E2B',
+      borderRadius: 2,
+      maxBarThickness: 28
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    indexAxis: 'y',
+    plugins: { legend: { display: false } },
+    scales: {
+      x: { ticks: { callback: v => '$' + (v/1000) + 'K' }, grid: { color: '#ECECEC' } },
+      y: { grid: { display: false } }
+    }
+  }
+});
+</script>
+</body>
+</html>
